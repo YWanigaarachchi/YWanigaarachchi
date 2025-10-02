@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 175px></picture></h1>
-<h1 align="center">Hi, I'm <span style="color:#2E97FF">Yasas Nirmitha Wanigaarachchi</span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi, I'm <span style="color:#2E97FF">Yasas Nirmitha Wanigaarachchi</span></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="ywanigaarachchi" /> </p>
 <h3 align="center">🚀 Full-Stack Developer | ☁️ Cloud & DevOps | 💡 Open Source Enthusiast</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
