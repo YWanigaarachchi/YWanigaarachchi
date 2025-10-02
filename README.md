@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#2E97FF">Yasas Nirmitha Wanigaarachchi</span></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="ywanigaarachchi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="ywanigaarachchi" /> </p>
 <h3 align="center">🚀 Full-Stack Developer | ☁️ Cloud & DevOps | 💡 Open Source Enthusiast</h3>
 
 ---
