@@ -90,12 +90,6 @@ Saturday     70 commits     ██████░░░░░░░░░░░�
 Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
 
 ```
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
-
-
-
 <!-- Created with ❤️ by Yasas Nirmitha Wanigaarachchi -->
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
