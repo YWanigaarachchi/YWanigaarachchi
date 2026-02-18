@@ -4,27 +4,28 @@
 
 <div align="center">
   <br>
+  <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20Views&color=004e92&style=flat-square" alt="ywanigaarachchi" />
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://github.com/YWanigaarachchi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ynwanigaarachchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-004e92?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+ 
+<div align="center">
+  <br>
   <h2 style="color: #004e92;"> 🚀 Building Scalable Microservices & Cloud Solutions </h2>
   <h3 style="color: #58a6ff;"> ☁️ AWS | Kubernetes | Python | React Ecosystem 💻 </h3>
   <p style="color: #8b949e;"><b>Software Engineering Student @ ICBT | Open Source Contributor</b></p>
 </div>
-
-<div align="center">
-  <a href="https://github.com/YWanigaarachchi">
-    <img src="https://img.shields.io/badge/Profile%20Views-2k%2B-004e92?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/YWanigaarachchi?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-50%2B-004e92?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ynwanigaarachchi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
