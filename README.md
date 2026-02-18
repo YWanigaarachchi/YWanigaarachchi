@@ -1,12 +1,38 @@
-<p align="center">
-  <img src="https://i.ibb.co/jghy8ZC/workstation-banner.gif" width="100%" alt="Workstation Banner" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=050a30,000c66,2E97FF&height=220&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Native%20%7C%20DevOps%20Enthusiast&descSize=20&descAlign=50&descAlignY=75&animation=fadeIn" width="100%" alt="Header Banner" />
+</div>
 
-<h1 align="center"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 175px></picture></h1>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">Hi, I'm <span style="color:#2E97FF">Yasas Nirmitha Wanigaarachchi</span></h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="ywanigaarachchi" /> </p>
-<h3 align="center">🚀 Full-Stack Developer | ☁️ Cloud & DevOps | 💡 Open Source Enthusiast</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align="center">
+  <br>
+  <h2> 🚀 Building Scalable Microservices & Cloud Solutions </h2>
+  <h3> ☁️ AWS | Kubernetes | Python | React Ecosystem 💻 </h3>
+  <p><b>Software Engineering Student @ ICBT | Open Source Contributor</b></p>
+</div>
+
+<div align="center">
+  <a href="https://github.com/YWanigaarachchi">
+    <img src="https://img.shields.io/badge/Profile%20Views-2k%2B-0e75b6?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/YWanigaarachchi?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-50%2B-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-handle">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ynwanigaarachchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97FF&center=true&vCenter=true&width=435&lines=Passionate+about+Distributed+Systems;Building+Auto+Hub+Logistics+Platform;Mastering+Cloud+Native+Technologies" alt="Typing SVG" />
+  </a>
+</div>
+
+---
 
 ## 💫 About Me<picture> <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 - 🖥️ Passionate about **modern software engineering & cloud-native systems** - 🚀 Skilled in **Full-Stack Web Development | Microservices | System Design** - 🌱 Currently mastering **Kubernetes, AWS, and Advanced Cloud Solutions** - ✍️ Writing blogs at [dev.to](https://dev.to/)  
