@@ -1,4 +1,3 @@
-<!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co/jghy8ZC/workstation-banner.gif" width="100%" alt="Workstation Banner" />
 </p>
@@ -9,16 +8,10 @@
 <h3 align="center">🚀 Full-Stack Developer | ☁️ Cloud & DevOps | 💡 Open Source Enthusiast</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-
 ## 💫 About Me<picture> <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-- 🖥️ Passionate about **modern software engineering & cloud-native systems**  
-- 🚀 Skilled in **Full-Stack Web Development | Microservices | System Design**  
-- 🌱 Currently mastering **Kubernetes, AWS, and Advanced Cloud Solutions**  
-- ✍️ Writing blogs at [dev.to](https://dev.to/)  
+- 🖥️ Passionate about **modern software engineering & cloud-native systems** - 🚀 Skilled in **Full-Stack Web Development | Microservices | System Design** - 🌱 Currently mastering **Kubernetes, AWS, and Advanced Cloud Solutions** - ✍️ Writing blogs at [dev.to](https://dev.to/)  
 - 🎯 **2025 Goals:** AWS Certified • Open Source Contributor • Tech Conference Speaker  
-- 📬 Reach me at **ynwanigaarachchi@gmail.com**  
-
----
+- 📬 Reach me at **ynwanigaarachchi@gmail.com** ---
 
 ## 🏷️ Super Tags
 <p align="center">
@@ -35,6 +28,17 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,kotlin,php,cpp,dart,mongodb,mysql,sqlite,firebase,aws,docker,linux,git,github,figma,canva" />
 </p>
+
+---
+
+## 🛠️ Project Highlights
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Distributed Hub** | 🚚 Microservices logistics system with Shop Nodes (5001-5003), API Hub & Live Analytics Dashboard. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FF7C00?logo=gradio&logoColor=white) |
+| **Waram.lk** | 💍 Matrimony platform connecting the Tamil community with secure profiles. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
+| **GreenLife** | 🌿 Wellness Center Management System for scheduling and patient records. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
+| **TechCare** | 🏥 Native Android Medical Application for patient tracking. | ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) |
 
 ---
 
@@ -73,14 +77,11 @@
 
 ---
 
-
 ## 🏆 Achievements
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YWanigaarachchi&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
-📅 **I'm Most Productive on Sunday** 
-
-```text
+📅 **I'm Most Productive on Sunday** ```text
 Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
 Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
 Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
@@ -88,9 +89,3 @@ Thursday     14 commits     █░░░░░░░░░░░░░░░░�
 Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
 Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
 Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
-
-```
-<!-- Created with ❤️ by Yasas Nirmitha Wanigaarachchi -->
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
