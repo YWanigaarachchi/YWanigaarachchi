@@ -82,7 +82,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=YWanigaarachchi&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
 📅 **I'm Most Productive on Sunday** ```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% <br>
+<br>Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71%
 <br>Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
 <br>Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
 <br>Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
