@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0d1117,001E3C,0d1117&height=220&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Native%20%7C%20DevOps%20Enthusiast&descSize=20&descAlign=50&descAlignY=75&animation=fadeIn" width="100%" alt="Dark Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000428,004e92&height=220&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Native%20%7C%20DevOps%20Enthusiast&descSize=20&descAlign=50&descAlignY=75&animation=fadeIn&v=100" width="100%" alt="Dark Blue Header" />
 </div>
 
 <div align="center">
   <br>
-  <h2 style="color: #58a6ff;"> 🚀 Building Scalable Microservices & Cloud Solutions </h2>
-  <h3 style="color: #8b949e;"> ☁️ AWS | Kubernetes | Python | React Ecosystem 💻 </h3>
+  <h2 style="color: #004e92;"> 🚀 Building Scalable Microservices & Cloud Solutions </h2>
+  <h3 style="color: #58a6ff;"> ☁️ AWS | Kubernetes | Python | React Ecosystem 💻 </h3>
   <p style="color: #8b949e;"><b>Software Engineering Student @ ICBT | Open Source Contributor</b></p>
 </div>
 
 <div align="center">
   <a href="https://github.com/YWanigaarachchi">
-    <img src="https://img.shields.io/badge/Profile%20Views-2k%2B-1f6feb?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Profile%20Views-2k%2B-004e92?style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
   </a>
   <a href="https://github.com/YWanigaarachchi?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-50%2B-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/badge/Followers-50%2B-004e92?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ynwanigaarachchi@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Passionate+about+Distributed+Systems;Building+Auto+Hub+Logistics+Platform;Mastering+Cloud+Native+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=004E92&center=true&vCenter=true&width=435&lines=Passionate+about+Distributed+Systems;Building+Auto+Hub+Logistics+Platform;Mastering+Cloud+Native+Technologies" alt="Typing SVG" />
   </a>
 </div>
 
