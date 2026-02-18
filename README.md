@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Email-004e92?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
- 
+
 <div align="center">
   <br>
   <h2 style="color: #004e92;"> 🚀 Building Scalable Microservices & Cloud Solutions </h2>
@@ -36,9 +36,14 @@
 ---
 
 ## 💫 About Me<picture> <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-- 🖥️ Passionate about **modern software engineering & cloud-native systems** - 🚀 Skilled in **Full-Stack Web Development | Microservices | System Design** - 🌱 Currently mastering **Kubernetes, AWS, and Advanced Cloud Solutions** - ✍️ Writing blogs at [dev.to](https://dev.to/)  
+- 🖥️ Passionate about **modern software engineering & cloud-native systems**
+- 🚀 Skilled in **Full-Stack Web Development | Microservices | System Design**
+- 🌱 Currently mastering **Kubernetes, AWS, and Advanced Cloud Solutions**
+- ✍️ Writing blogs at [dev.to](https://dev.to/)  
 - 🎯 **2025 Goals:** AWS Certified • Open Source Contributor • Tech Conference Speaker  
-- 📬 Reach me at **ynwanigaarachchi@gmail.com** ---
+- 📬 Reach me at **ynwanigaarachchi@gmail.com**
+
+---
 
 ## 🏷️ Super Tags
 <p align="center">
@@ -71,12 +76,12 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YWanigaarachchi&theme=radical&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YWanigaarachchi&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YWanigaarachchi&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=YWanigaarachchi&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YWanigaarachchi&layout=compact&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YWanigaarachchi&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -91,15 +96,15 @@
 ## 📈 Extra Graphs
 ### ⏳ Commit Habits
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YWanigaarachchi&theme=radical&utcOffset=+5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=YWanigaarachchi&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YWanigaarachchi&theme=tokyonight&utcOffset=+5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=YWanigaarachchi&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🗂️ Profile Summary Cards
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YWanigaarachchi&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YWanigaarachchi&theme=tokyonight" />
 </p>
 
 ---
@@ -124,4 +129,3 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-
