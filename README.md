@@ -12,13 +12,7 @@
 <!-- 🌐 PORTFOLIO WEBSITE — HIGHLIGHTED SECTION -->
 <div align="center">
   <a href="https://ywanigaarachchi.github.io/Y_N_W/">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B35,50:FF8C00,100:FFD700&height=55&text=🚀%20Visit%20My%20Portfolio%20Website%20→&fontSize=22&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&animation=scaleIn" width="480" alt="Visit My Website" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://ywanigaarachchi.github.io/Y_N_W/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1500&color=FF8C00&center=true&vCenter=true&width=350&lines=✨+Click+above+to+explore+my+portfolio+✨;🌐+ywanigaarachchi.github.io" alt="Portfolio Link" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B35,100:FF8C00&height=55&text=🚀%20Explore%20My%20Portfolio%20Website&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&animation=scaleIn" width="450" alt="Visit My Website" />
   </a>
 </div>
 
@@ -28,7 +22,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasas-wanigaarachchi)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ynwanigaarachchi@gmail.com)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logoColor=white)](https://ywanigaarachchi.github.io/Y_N_W/)
 
 </div>
 
