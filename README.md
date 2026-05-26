@@ -64,6 +64,74 @@ contact:    ynwanigaarachchi@gmail.com
 
 ---
 
+## ⚡ Fun Facts
+
+<div align="center">
+
+```python
+class Developer:
+    name     = "Yasas Nirmitha Wanigaarachchi"
+    role     = "Full-Stack Developer & Cloud Engineer"
+    location = "Sri Lanka 🇱🇰"
+    langs    = ["Sinhala", "English", "Tamil"]
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+
+me = Developer()
+me.say_hi()
+```
+
+</div>
+
+<table align="center">
+  <tr><td>🎮</td><td>I debug code faster with lo-fi music playing</td></tr>
+  <tr><td>🚀</td><td>Deployed containers at 3 AM and survived to tell the tale</td></tr>
+  <tr><td>📱</td><td>My first app crashed 47 times before it finally worked</td></tr>
+  <tr><td>🌍</td><td>Based in Sri Lanka 🇱🇰, building software for the world</td></tr>
+  <tr><td>🔥</td><td>I believe clean code is an art form</td></tr>
+  <tr><td>☕</td><td>Powered by coffee, curiosity, and Stack Overflow</td></tr>
+</table>
+
+---
+
+## 🎯 Currently Working On
+
+<table align="center">
+  <tr>
+    <td align="center" width="40">🔭</td>
+    <td width="120"><b>Building</b></td>
+    <td>Distributed Microservices Platform with Real-Time Analytics</td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td><b>Learning</b></td>
+    <td>Kubernetes · AWS Solutions Architecture · System Design Patterns</td>
+  </tr>
+  <tr>
+    <td align="center">👯</td>
+    <td><b>Collaborate</b></td>
+    <td>Open Source Projects & Cloud-Native Tools</td>
+  </tr>
+  <tr>
+    <td align="center">💬</td>
+    <td><b>Ask me about</b></td>
+    <td>React · Python · Docker · Microservices · Cloud Architecture</td>
+  </tr>
+  <tr>
+    <td align="center">📫</td>
+    <td><b>Reach me</b></td>
+    <td><a href="mailto:ynwanigaarachchi@gmail.com">ynwanigaarachchi@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td align="center">⚡</td>
+    <td><b>Fun fact</b></td>
+    <td>I code better after midnight 🌙</td>
+  </tr>
+</table>
+
+---
+
 ## 🏷️ Identity Tags
 
 <p align="center">
@@ -240,6 +308,48 @@ Sunday     ███████░░░░░░░░░░░░░░░░
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/output/github-contribution-grid-snake.svg" />
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/output/github-contribution-grid-snake.svg" />
   </picture>
+</p>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Coming soon — stay tuned for articles on Cloud, DevOps & Full-Stack development!
+<!-- BLOG-POST-LIST:END -->
+
+▶️ [**...more blog posts**](https://dev.to/)
+
+---
+
+## 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it%27s+bad." alt="Dev Quote" width="550"/>
+</p>
+
+---
+
+## 😂 Random Dev Joke
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight&qColor=%231F6FEB&aColor=%2358A6FF" alt="Dev Joke" width="500"/>
+</p>
+
+---
+
+## 🌍 Visitor Analytics
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYWanigaarachchi&label=PROFILE%20VISITORS&labelColor=%230D1117&countColor=%231F6FEB&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YWanigaarachchi&label=Total+Profile+Views&color=1F6FEB&style=flat-square" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/YWanigaarachchi?label=Total+Stars&color=FFD700&style=flat-square&logo=github" alt="Stars" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Timezone-Asia%2FColombo%20(UTC%2B5%3A30)-1F6FEB?style=flat-square&logo=clockify&logoColor=white" alt="Timezone" />
 </p>
 
 ---
