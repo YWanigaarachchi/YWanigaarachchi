@@ -12,7 +12,7 @@
 <!-- 🌐 PORTFOLIO WEBSITE — HIGHLIGHTED SECTION -->
 <div align="center">
   <a href="https://ywanigaarachchi.github.io/Y_N_W/">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B35,100:FF8C00&height=55&text=🚀%20Explore%20My%20Portfolio%20Website&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=55&animation=scaleIn" width="450" alt="Visit My Website" />
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF6B35,100:FF8C00&height=70&text=🚀%20Explore%20My%20Portfolio%20Website&fontSize=26&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=scaleIn" width="550" alt="Visit My Website" />
   </a>
 </div>
 
