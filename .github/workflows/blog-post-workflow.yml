@@ -1,0 +1,29 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Runs every 6 hours
+  workflow_dispatch:          # Allows manual trigger
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in Dev.to blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # TODO: Replace with your actual Dev.to username
+          feed_list: "https://dev.to/feed/ywanigaarachchi"
+          max_post_count: 5
+          template: "- 📝 [$title]($url) — $date"
+          date_format: "MMM dd, yyyy"
+          comment_tag_name: "BLOG-POST-LIST"
+          commit_message: "docs: update README with latest blog posts"
+          committer_username: "blog-post-bot"
+          committer_email: "actions@github.com"
