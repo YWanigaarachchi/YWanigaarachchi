@@ -1,131 +1,267 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=000428,004e92&height=220&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Cloud%20Native%20%7C%20DevOps%20Enthusiast&descSize=20&descAlign=50&descAlignY=75&animation=fadeIn&v=100" width="100%" alt="Dark Blue Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3069,100:1F6FEB&height=200&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20Native%20%7C%20DevOps%20Enthusiast&descSize=18&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Header" />
 </div>
 
 <div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20Views&color=004e92&style=flat-square" alt="ywanigaarachchi" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20Views&color=1F6FEB&style=for-the-badge&logo=eye)](https://github.com/YWanigaarachchi)
+[![GitHub followers](https://img.shields.io/github/followers/YWanigaarachchi?label=Followers&style=for-the-badge&color=1F6FEB&logo=github)](https://github.com/YWanigaarachchi)
+
 </div>
 
 <div align="center">
-  <br>
-  <a href="https://github.com/YWanigaarachchi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ynwanigaarachchi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-004e92?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YWanigaarachchi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasas-wanigaarachchi)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ynwanigaarachchi@gmail.com)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/)
+
 </div>
 
-<div align="center">
-  <br>
-  <h2 style="color: #004e92;"> 🚀 Building Scalable Microservices & Cloud Solutions </h2>
-  <h3 style="color: #58a6ff;"> ☁️ AWS | Kubernetes | Python | React Ecosystem 💻 </h3>
-  <p style="color: #8b949e;"><b>Software Engineering Student @ ICBT | Open Source Contributor</b></p>
-</div>
+<br/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=004E92&center=true&vCenter=true&width=435&lines=Passionate+about+Distributed+Systems;Building+Auto+Hub+Logistics+Platform;Mastering+Cloud+Native+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;☁️+Cloud+Native+%26+DevOps+Enthusiast;🏗️+Building+Scalable+Microservices;🎓+Software+Engineering+@+ICBT;💡+Open+Source+Contributor;🌟+Always+Learning+New+Technologies" alt="Typing SVG" />
   </a>
 </div>
 
----
-
-## 💫 About Me<picture> <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-- 🖥️ Passionate about **modern software engineering & cloud-native systems**
-- 🚀 Skilled in **Full-Stack Web Development | Microservices | System Design**
-- 🌱 Currently mastering **Kubernetes, AWS, and Advanced Cloud Solutions**
-- ✍️ Writing blogs at [dev.to](https://dev.to/)  
-- 🎯 **2025 Goals:** AWS Certified • Open Source Contributor • Tech Conference Speaker  
-- 📬 Reach me at **ynwanigaarachchi@gmail.com**
+<br/>
 
 ---
 
-## 🏷️ Super Tags
+## 🧑‍💻 About Me
+
+<img align="right" width="210px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+
+```yaml
+name:       Yasas Nirmitha Wanigaarachchi
+role:       Full-Stack Developer & Cloud Engineer
+location:   Sri Lanka 🇱🇰
+education:  Software Engineering @ ICBT Campus
+
+currently:
+  - 🔧 Building Distributed Microservices Platforms
+  - ☁️ Mastering Kubernetes, AWS & Cloud Solutions
+  - 📖 Preparing for AWS Certified Developer
+
+passions:
+  - 🏗️ System Design & Architecture
+  - 🌐 Cloud-Native Development
+  - 🤖 AI/ML Integration in Web Apps
+  - 🔓 Open Source Contribution
+
+goals_2025:
+  - ✅ AWS Certification
+  - ✅ Launch SaaS Product
+  - ✅ Tech Conference Speaker
+  - ✅ 100+ GitHub Contributions
+
+contact:    ynwanigaarachchi@gmail.com
+```
+
+<br clear="right"/>
+
+---
+
+## 🏷️ Identity Tags
+
 <p align="center">
-  <img src="https://img.shields.io/badge/-FullStackDeveloper-%2300C4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CloudNative-%23FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-DevOps-%23E34F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-OpenSourceContributor-%23181717?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-SystemDesign-%2366FF99?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-1F6FEB?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud%20Native-FF8C00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DevOps%20Enthusiast-E34F26?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Microservices-6E40C9?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Open%20Source-2DA44E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-System%20Design-00C4FF?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
 ## 💻 Tech Stack
+
+### 🌐 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,python,flask,java,php,nodejs,express,html,css,js,ts,kotlin,dart,mysql,mongodb,sqlite,firebase,aws,docker,linux,git,github,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,figma" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,express,java,php" />
+</p>
+
+### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,androidstudio,flutter" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,aws,gcp" />
+</p>
+
+### 🛠️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,vscode,postman" />
 </p>
 
 ---
 
-## 🛠️ Project Highlights
+## 🚀 Project Highlights
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Distributed Hub** | 🚚 Microservices logistics system with Shop Nodes (5001-5003), API Hub & Live Analytics Dashboard. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Gradio](https://img.shields.io/badge/-Gradio-FF7C00?logo=gradio&logoColor=white) |
-| **Waram.lk** | 💍 Matrimony platform connecting the Tamil community with secure profiles. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| **GreenLife** | 🌿 Wellness Center Management System for scheduling and patient records. | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
-| **TechCare** | 🏥 Native Android Medical Application for patient tracking. | ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white) |
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚚 Distributed Hub</h3>
+      <p align="center">
+        <a href="https://github.com/YWanigaarachchi">
+          <img src="https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Microservices logistics platform with Shop Nodes (5001–5003), an API Hub, and a Live Analytics Dashboard with real-time data streaming.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Gradio-FF7C00?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💍 Waram.lk</h3>
+      <p align="center">
+        <a href="https://github.com/YWanigaarachchi">
+          <img src="https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Matrimony platform for the Tamil community with secure profile management, smart matching, and a clean modern UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌿 GreenLife</h3>
+      <p align="center">
+        <a href="https://github.com/YWanigaarachchi">
+          <img src="https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Wellness Center Management System for scheduling, patient records, and appointment tracking with a responsive dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 TechCare</h3>
+      <p align="center">
+        <a href="https://github.com/YWanigaarachchi">
+          <img src="https://img.shields.io/badge/View%20Project-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Native Android medical application for patient tracking, appointment scheduling, and health record management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YWanigaarachchi&theme=tokyonight&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YWanigaarachchi&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YWanigaarachchi&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=YWanigaarachchi&theme=github-dark-blue&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YWanigaarachchi&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🚀 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YWanigaarachchi&theme=react-dark&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YWanigaarachchi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160"/>
 </p>
 
 ---
 
-## 📈 Extra Graphs
-### ⏳ Commit Habits
+## 📊 Contribution Graph
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YWanigaarachchi&theme=tokyonight&utcOffset=+5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=YWanigaarachchi&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YWanigaarachchi&theme=github-compact&hide_border=true&area=true&color=1F6FEB&line=1F6FEB&point=FFFFFF" width="96%"/>
 </p>
 
 ---
 
-### 🗂️ Profile Summary Cards
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YWanigaarachchi&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YWanigaarachchi&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## ⏳ Coding Activity
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YWanigaarachchi&theme=radical&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YWanigaarachchi&theme=github_dark&utcOffset=+5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YWanigaarachchi&theme=github_dark" />
 </p>
-📅 **I'm Most Productive on Sunday** 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YWanigaarachchi&theme=github_dark" width="96%"/>
+</p>
+
+---
+
+## 📅 Weekly Commit Habits
+
+📌 **I'm Most Productive on Sundays & Saturdays**
 
 ```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
-
+Monday     ████░░░░░░░░░░░░░░░░░░░░░   18.71%
+Tuesday    ██░░░░░░░░░░░░░░░░░░░░░░░    7.82%
+Wednesday  ██░░░░░░░░░░░░░░░░░░░░░░░    8.50%
+Thursday   █░░░░░░░░░░░░░░░░░░░░░░░░    4.76%
+Friday     █░░░░░░░░░░░░░░░░░░░░░░░░    5.44%
+Saturday   ██████░░░░░░░░░░░░░░░░░░░   23.81%
+Sunday     ███████░░░░░░░░░░░░░░░░░░   30.95%
 ```
-<!-- Created with ❤️ by Yasas Nirmitha Wanigaarachchi -->
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
+---
+
+## 🌟 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="https://github.com/YWanigaarachchi">
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yasas-wanigaarachchi">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ynwanigaarachchi@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:0A3069,100:0D1117&height=120&section=footer&animation=twinkling" width="100%" alt="Footer" />
+</div>
+
+<!-- Crafted with ❤️ by Yasas Nirmitha Wanigaarachchi -->
