@@ -43,7 +43,7 @@ I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building di
 - 🔧 **Currently Building:** Distributed Microservices Platforms
 - ☁️ **Mastering:** Kubernetes, AWS & Cloud Solutions
 - 📖 **Preparing For:** AWS Certified Developer
-- 📫 **Reach me:** [ynwanigaarachchi@gmail.com](mailto:ynwanigaarachchi@gmail.com)
+- 📫 **Reach me:** [ynwanigaarachchi@gmail.com](mailto:ywanigaarachchi@gmail.com)
 
 **Core Focus Areas:** System Design & Architecture • Cloud-Native Development • AI/ML Integration • Open Source
 
