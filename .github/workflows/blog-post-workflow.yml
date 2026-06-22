@@ -1,8 +1,10 @@
 name: Latest Blog Posts
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours
+  # schedule:
+    # Disabled temporarily because the Dev.to feed (https://dev.to/feed/ywanigaarachchi) returns a 404 error.
+    # Please create the Dev.to account and publish a post, then uncomment the cron schedule below.
+    # - cron: "0 */6 * * *"   # Runs every 6 hours
   workflow_dispatch:          # Allows manual trigger
 
 jobs:
