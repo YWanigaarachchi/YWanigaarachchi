@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Cloud%20Native%20%7C%20DevOps%20Enthusiast&descSize=18&descAlignY=65" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=240&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Software%20Engineer%20%7C%20Cloud-Native%20 Architect%20%7C%203D%20Web%20Creator&descSize=16&descAlignY=66" width="100%" alt="Header Banner" />
   
   <a href="https://github.com/YWanigaarachchi">
     <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20Views&color=1f6feb&style=for-the-badge&logo=eye" alt="Profile Views"/>
@@ -8,10 +8,8 @@
   <a href="https://github.com/YWanigaarachchi">
     <img src="https://img.shields.io/github/followers/YWanigaarachchi?label=Followers&style=for-the-badge&color=1f6feb&logo=github" alt="Followers"/>
   </a>
-  <br/><br/>
-  
   <a href="https://ywanigaarachchi.github.io/Y_N_W/">
-    <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio%20Website-FF8C00?style=for-the-badge&logoColor=white&color=ff6b35" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-FF6B35?style=for-the-badge&logoColor=white" alt="Live Portfolio" />
   </a>
 </div>
 
@@ -26,70 +24,105 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;☁️+Cloud+Native+%26+DevOps+Enthusiast;🏗️+Building+Scalable+Microservices;🎓+Software+Engineering+@+ICBT;💡+Open+Source+Contributor;🌟+Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Software+Engineer;⚡+Next.js+16+%26+React+19+Architect;☁️+Cloud-Native+%26+DevOps+Enthusiast;🧊+Three.js+%26+3D+Interactive+Web+Developer;🎓+Software+Engineering+%40+ICBT;💡+Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-## 👨‍💻 Who am I?
+---
 
-<img align="right" width="280px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+## 👨‍💻 About Me
+
+<img align="right" width="290px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 Hello there! 👋 I'm **Yasas Nirmitha Wanigaarachchi** from **Sri Lanka 🇱🇰**. 
-I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building distributed systems and scalable web applications. Clean code, modern architecture, and late-night coding sessions are my jam. ☕
+
+I am a passionate **Full-Stack Software Engineer & Cloud Architect** who specializes in crafting modern, high-performance web applications, 3D interactive user experiences, and distributed microservices architecture. I believe in clean code, intuitive UI/UX design, robust system scalability, and continuous innovation.
 
 - 🎓 **Education:** Software Engineering @ ICBT Campus
-- 🔧 **Currently Building:** Distributed Microservices Platforms
-- ☁️ **Mastering:** Kubernetes, AWS & Cloud Solutions
-- 📖 **Preparing For:** AWS Certified Developer
-- 📫 **Reach me:** [ywanigaarachchi@gmail.com](mailto:ywanigaarachchi@gmail.com)
-
-**Core Focus Areas:** System Design & Architecture • Cloud-Native Development • AI/ML Integration • Open Source
+- 💼 **Founder / Lead:** [SoftGenix](https://github.com/YWanigaarachchi/SoftGenix) — Software Solutions Agency
+- 🛠️ **Core Technologies:** Next.js 16, React 19, TypeScript, Node.js, Python, Three.js, Docker, AWS
+- ☁️ **Focus Areas:** Cloud-Native Architecture • Microservices • Interactive 3D WebGL • Full-Stack Systems
+- 📫 **Reach Me:** [ywanigaarachchi@gmail.com](mailto:ywanigaarachchi@gmail.com)
 
 <br clear="both"/>
 
 ---
 
-## ⚡ Skills & Technologies
-
-<div align="center">
-
-### 🌐 Frontend
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,figma&theme=dark" /></a>
-
-### ⚙️ Backend & Mobile
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,nodejs,express,java,php,fastapi,flask,kotlin,dart,flutter&theme=dark" /></a>
-
-### 🗄️ Databases, Cloud & DevOps
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,aws,gcp,docker,kubernetes,linux,git,github,vscode,postman&theme=dark" /></a>
-
-</div>
-
-<br/>
-
----
-
-## 🚀 Featured Projects
+## 🚀 Featured Pinned Projects
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">🏢 SoftGenix</h3>
+      <p align="center"><b>Next-Gen Software Solutions Platform</b></p>
+      <p>Modern software agency platform featuring Next.js 16 App Router, React 19, Three.js 3D canvas logo visualizer, dynamic LKR cost calculator, instant PDF quote generation, and WhatsApp inquiry integration.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Next.js_16-black?logo=next.js&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-React_19-61DAFB?logo=react&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Tailwind_v4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat-square" />
+      </div>
+      <br/>
+      <p align="center">
+        <a href="https://github.com/YWanigaarachchi/SoftGenix"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ GEN_O</h3>
+      <p align="center"><b>High-End Digital Agency Platform</b></p>
+      <p>State-of-the-art multi-page agency website featuring a Light Aqua aesthetic, interactive 3D PCB vector circuit board with mouse tilt parallax, ambient background audio controller, and career application modals.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-CSS3_Glass-1572B6?logo=css3&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-WebGL_3D-990000?logo=webgl&logoColor=white&style=flat-square" />
+      </div>
+      <br/>
+      <p align="center">
+        <a href="https://github.com/YWanigaarachchi/GEN_O"><b>Explore Repository ➔</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌌 Y_N_W Portfolio</h3>
+      <p align="center"><b>Futuristic Zero-G Agency Portfolio</b></p>
+      <p>Interactive portfolio website featuring Three.js 3D WebGL floating wireframe AI core, real-time drifting starfield particles, neon glassmorphism UI, custom dynamic cursor, and instant WhatsApp inquiry pop-outs.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Vanilla_JS-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Glassmorphism-1572B6?logo=css3&logoColor=white&style=flat-square" />
+      </div>
+      <br/>
+      <p align="center">
+        <a href="https://github.com/YWanigaarachchi/Y_N_W"><b>Repository ➔</b></a> | 
+        <a href="https://ywanigaarachchi.github.io/Y_N_W/"><b>Live Demo 🌐</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">🚚 Distributed Hub</h3>
-      <p>Microservices logistics platform with Shop Nodes (5001–5003), an API Hub, and a Live Analytics Dashboard with real-time data streaming.</p>
+      <p align="center"><b>Microservices Logistics & Analytics</b></p>
+      <p>Distributed microservices architecture for logistics & inventory management featuring autonomous Shop Nodes, a central API Hub routing layer, and live real-time analytics streaming.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Microservices-FF6C37?logo=apache&logoColor=white&style=flat-square" />
       </div>
       <br/>
       <p align="center">
-        <a href="https://github.com/YWanigaarachchi"><b>View Project ➔</b></a>
+        <a href="https://github.com/YWanigaarachchi"><b>Explore Repository ➔</b></a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">💍 Waram.lk</h3>
-      <p>Matrimony platform for the Tamil community with secure profile management, smart matching, and a clean modern UI.</p>
+      <p align="center"><b>Community Matrimony Platform</b></p>
+      <p>Matrimonial web platform tailored for the Tamil community featuring secure account management, intelligent partner matching algorithms, and responsive modern user interface.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
         <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
@@ -97,39 +130,45 @@ I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building di
       </div>
       <br/>
       <p align="center">
-        <a href="https://github.com/YWanigaarachchi"><b>View Project ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌿 GreenLife</h3>
-      <p>Wellness Centre Management System for scheduling, patient records, and appointment tracking with a responsive dashboard.</p>
-      <div align="center">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-      </div>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/YWanigaarachchi"><b>View Project ➔</b></a>
+        <a href="https://github.com/YWanigaarachchi"><b>Explore Repository ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 TechCare</h3>
-      <p>Native Android medical application for patient tracking, appointment scheduling, and health record management.</p>
+      <h3 align="center">🏥 TechCare & 🌿 GreenLife</h3>
+      <p align="center"><b>Healthcare Management Solutions</b></p>
+      <p>Suite of healthcare products: TechCare Native Android app for medical record tracking & Firebase integration, and GreenLife Wellness Centre System for patient appointments and scheduling.</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
       </div>
       <br/>
       <p align="center">
-        <a href="https://github.com/YWanigaarachchi"><b>View Project ➔</b></a>
+        <a href="https://github.com/YWanigaarachchi"><b>Explore Repository ➔</b></a>
       </p>
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
+
+## ⚡ Technical Skills & Ecosystem
+
+<div align="center">
+
+### 🌐 Frontend & 3D Web Graphics
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,threejs,figma&theme=dark" /></a>
+
+### ⚙️ Backend, Mobile & Microservices
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,nodejs,express,java,fastapi,flask,php,kotlin,dart,flutter&theme=dark" /></a>
+
+### 🗄️ Cloud, DevOps & Databases
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,mysql,mongodb,sqlite,firebase,git,github,linux,postman,vscode&theme=dark" /></a>
+
+</div>
 
 <br/>
 
@@ -142,9 +181,13 @@ I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building di
   <img src="https://streak-stats.demolab.com?user=YWanigaarachchi&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YWanigaarachchi&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Contribution Graph"/>
 </div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YWanigaarachchi&theme=tokyonight&utcOffset=5.5" height="160" alt="Productive Time"/>
@@ -155,7 +198,7 @@ I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building di
 
 ---
 
-## 🐍 Activity Map
+## 🐍 Contribution Activity Graph
 
 <div align="center">
   <picture>
@@ -169,21 +212,9 @@ I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building di
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Coming soon — stay tuned for articles on Cloud, DevOps & Full-Stack development!
-<!-- BLOG-POST-LIST:END -->
-
-▶️ [**...read more on Dev.to**](https://dev.to/)
-
-<br/>
-
----
-
 <div align="center">
   
-  ### Let's build something awesome together! 🚀
+  ### Let's connect & build impactful software together! 🚀
   
   <a href="https://github.com/YWanigaarachchi">
     <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
@@ -196,3 +227,4 @@ I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building di
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
 
 </div>
+
