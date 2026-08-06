@@ -75,57 +75,86 @@ I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building di
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚚 Distributed Hub</h3>
-      <p>Microservices logistics platform with Shop Nodes (5001–5003), an API Hub, and a Live Analytics Dashboard with real-time data streaming.</p>
+      <h3 align="center">🛎️ Siyala HMS</h3>
+      <p>Multi-chain Hotel Management System for Sri Lanka hospitality with multi-location properties (e.g., Kandy & Hikkaduwa), kitchen inventory, vendor tracking, and multi-tier analytics.</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
       </div>
       <br/>
       <p align="center">
-        <a href="https://github.com/YWanigaarachchi"><b>View Project ➔</b></a>
+        <a href="https://github.com/YWanigaarachchi/Siyala_HMS1"><b>View Project ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💍 Waram.lk</h3>
-      <p>Matrimony platform for the Tamil community with secure profile management, smart matching, and a clean modern UI.</p>
+      <h3 align="center">🏝️ Resortify HMS</h3>
+      <p>Decoupled Hotel Management System tailored for beach resorts. Built with Node.js/Express & React + Tailwind CSS, featuring dual-currency (LKR/USD) sync, real-time KOT, and VAT/SSCL tax compliance.</p>
       <div align="center">
         <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
-        <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" />
       </div>
       <br/>
       <p align="center">
-        <a href="https://github.com/YWanigaarachchi"><b>View Project ➔</b></a>
+        <a href="https://github.com/YWanigaarachchi/Resortify-hms"><b>View Project ➔</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌿 GreenLife</h3>
-      <p>Wellness Centre Management System for scheduling, patient records, and appointment tracking with a responsive dashboard.</p>
+      <h3 align="center">🇱🇰 LankaRest HMS</h3>
+      <p>Scalable and modular Hotel Management System built for Sri Lanka's tourism sector. Features multi-tier room management, local payment gateway readiness, and seasonal pricing.</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
       </div>
       <br/>
       <p align="center">
-        <a href="https://github.com/YWanigaarachchi"><b>View Project ➔</b></a>
+        <a href="https://github.com/YWanigaarachchi/lankarest-hms"><b>View Project ➔</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 TechCare</h3>
-      <p>Native Android medical application for patient tracking, appointment scheduling, and health record management.</p>
+      <h3 align="center">🏨 Athithi HMS</h3>
+      <p>Modern Hotel Management System built for Sri Lankan boutique villas & luxury resorts. Supports room bookings, inventory tracking, guest management, and local billing compliance.</p>
       <div align="center">
-        <img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
       </div>
       <br/>
       <p align="center">
-        <a href="https://github.com/YWanigaarachchi"><b>View Project ➔</b></a>
+        <a href="https://github.com/YWanigaarachchi/athithi-hms"><b>View Project ➔</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌿 GreenLife Wellness Center</h3>
+      <p>Holistic health web application for yoga, therapy, and nutrition. Enables appointment scheduling, client registrations, service inquiries, and therapist/admin management dashboards.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
+      </div>
+      <br/>
+      <p align="center">
+        <a href="https://github.com/YWanigaarachchi/GreenLife_Wellness_Center"><b>View Project ➔</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 ContextSync AI</h3>
+      <p>Intelligent Retrieval-Augmented Generation (RAG) system seamlessly connecting contextual AI knowledge retrieval with automated workflow execution.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-AI%2FML-FF6F00?logo=openai&logoColor=white&style=flat-square" />
+      </div>
+      <br/>
+      <p align="center">
+        <a href="https://github.com/YWanigaarachchi/ContextSync-AI"><b>View Project ➔</b></a>
       </p>
     </td>
   </tr>
