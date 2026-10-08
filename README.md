@@ -1,68 +1,153 @@
-<!-- HEADER SECTION -->
+<!-- ======================================================= -->
+<!-- HEADER & HERO BANNER                                    -->
+<!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=250&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=42&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Cloud%20Native%20%7C%20DevOps%20Enthusiast&descSize=18&descAlignY=65" width="100%" alt="Header Banner" />
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:111827,70:1d4ed8,100:0284c7&height=260&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=38&fontAlignY=40&fontColor=ffffff&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20DevOps%20Enthusiast&descSize=18&descAlignY=62&descColor=93c5fd&animation=twinkling" width="100%" alt="Header Banner" />
+</div>
+
+<div align="center">
   <a href="https://github.com/YWanigaarachchi">
-    <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20Views&color=1f6feb&style=for-the-badge&logo=eye" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/Status-🟢%20Open%20to%20Opportunities-0f172a?style=for-the-badge&labelColor=0284c7&color=0f172a" alt="Status Badge" />
   </a>
   <a href="https://github.com/YWanigaarachchi">
-    <img src="https://img.shields.io/github/followers/YWanigaarachchi?label=Followers&style=for-the-badge&color=1f6feb&logo=github" alt="Followers"/>
+    <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20Views&color=0284c7&style=for-the-badge&logo=eye" alt="Profile Views" />
   </a>
-  <br/><br/>
-  
+  <a href="https://github.com/YWanigaarachchi?tab=followers">
+    <img src="https://img.shields.io/github/followers/YWanigaarachchi?label=Followers&style=for-the-badge&color=0284c7&logo=github" alt="Followers" />
+  </a>
   <a href="https://ywanigaarachchi.github.io/Y_N_W/">
-    <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio%20Website-FF8C00?style=for-the-badge&logoColor=white&color=ff6b35" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-🌐%20Explore%20Showcase-0284c7?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-<br/>
-
 <div align="center">
-  <a href="https://github.com/YWanigaarachchi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/yasas-wanigaarachchi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ynwanigaarachchi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://dev.to/ywanigaarachchi"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
-</div>
-
-<div align="center">
+  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=🚀+Full-Stack+Developer;☁️+Cloud+Native+%26+DevOps+Enthusiast;🏗️+Building+Scalable+Microservices;🎓+Software+Engineering+@+ICBT;💡+Open+Source+Contributor;🌟+Always+Learning+New+Technologies" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Software+Engineer;☁️+Cloud-Native+%26+DevOps+Practitioner;⚡+Architecting+Scalable+Microservices;🏨+Building+Next-Gen+Hospitality+SaaS+(HMS);🤖+Integrating+AI+%26+RAG-Powered+Workflows;🎓+Software+Engineering+@+ICBT+Campus" alt="Typing SVG" />
+  </a>
+  <br/>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/yasas-wanigaarachchi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/YWanigaarachchi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:ywanigaarachchi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://ywanigaarachchi.github.io/Y_N_W/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+  &nbsp;
+  <a href="https://dev.to/ywanigaarachchi" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
 </div>
 
 <br/>
 
-## 👨‍💻 Who am I?
+---
 
-<img align="right" width="280px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+<!-- ======================================================= -->
+<!-- ABOUT ME & EXECUTIVE SUMMARY                            -->
+<!-- ======================================================= -->
+## 👨‍💻 About Me
 
-Hello there! 👋 I'm **Yasas Nirmitha Wanigaarachchi** from **Sri Lanka 🇱🇰**. 
-I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building distributed systems and scalable web applications. Clean code, modern architecture, and late-night coding sessions are my jam. ☕
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>Hey there! 👋 I'm Yasas Nirmitha Wanigaarachchi</h3>
+      <p>
+        I am a results-oriented <b>Full-Stack Software Engineer & Cloud Enthusiast</b> from <b>Sri Lanka 🇱🇰</b>. I bridge the gap between elegant product design and resilient cloud architectures.
+      </p>
+      <p>
+        My expertise centers on architecting <b>distributed microservices</b>, end-to-end <b>Hospitality SaaS platforms (HMS)</b>, and integrating <b>AI/RAG workflows</b> into production-ready software.
+      </p>
+      <ul>
+        <li>🎓 <b>Education:</b> Software Engineering @ ICBT Campus</li>
+        <li>🔭 <b>Current Focus:</b> Distributed Microservices, Event-Driven Systems & Cloud Native Ops</li>
+        <li>☁️ <b>Cloud Journey:</b> AWS Cloud Architecture, Docker, Kubernetes & CI/CD automation</li>
+        <li>💡 <b>Core Philosophy:</b> Clean Code • High Availability • Frictionless UX</li>
+        <li>📫 <b>Contact:</b> <a href="mailto:ywanigaarachchi@gmail.com">ywanigaarachchi@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="35%" valign="middle" align="center">
+      <img src="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/main/.github/assets/developer.svg" onerror="this.onerror=null; this.src='https://images.weserv.nl/?url=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif&w=260&h=260&fit=cover&a=top';" width="240px" style="border-radius: 12px;" alt="Coding Avatar" />
+      <br/><br/>
+      <a href="https://ywanigaarachchi.github.io/Y_N_W/">
+        <img src="https://img.shields.io/badge/🌐%20Visit%20Personal%20Website-0284c7?style=for-the-badge&logoColor=white" alt="Personal Website" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-- 🎓 **Education:** Software Engineering @ ICBT Campus
-- 🔧 **Currently Building:** Distributed Microservices Platforms
-- ☁️ **Mastering:** Kubernetes, AWS & Cloud Solutions
-- 📖 **Preparing For:** AWS Certified Developer
-- 📫 **Reach me:** [ywanigaarachchi@gmail.com](mailto:ywanigaarachchi@gmail.com)
-
-**Core Focus Areas:** System Design & Architecture • Cloud-Native Development • AI/ML Integration • Open Source
-
-<br clear="both"/>
+<br/>
 
 ---
 
-## ⚡ Skills & Technologies
+<!-- ======================================================= -->
+<!-- TECH ARSENAL & SKILLS MATRIX                            -->
+<!-- ======================================================= -->
+## ⚡ Tech Arsenal & Skills
 
 <div align="center">
 
-### 🌐 Frontend
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,tailwind,figma&theme=dark" /></a>
-
-### ⚙️ Backend & Mobile
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,nodejs,express,java,php,fastapi,flask,kotlin,dart,flutter&theme=dark" /></a>
-
-### 🗄️ Databases, Cloud & DevOps
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase,aws,gcp,docker,kubernetes,linux,git,github,vscode,postman&theme=dark" /></a>
+<table width="100%">
+  <tr>
+    <td width="22%" align="center"><b>💻 Languages</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,html,css&perline=8&theme=dark" alt="Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><b>⚛️ Frontend & UI</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux,figma&perline=8&theme=dark" alt="Frontend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><b>🛠️ Backend & APIs</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,flutter&perline=8&theme=dark" alt="Backend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><b>☁️ Cloud & DevOps</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,githubactions,nginx&perline=8&theme=dark" alt="Cloud & DevOps" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><b>🗄️ Databases & Cache</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,redis&perline=8&theme=dark" alt="Databases" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="22%" align="center"><b>🧰 Tools & Platforms</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm&perline=8&theme=dark" alt="Tools" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -70,91 +155,136 @@ I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building di
 
 ---
 
+<!-- ======================================================= -->
+<!-- FEATURED PROJECTS SHOWCASE                              -->
+<!-- ======================================================= -->
 ## 🚀 Featured Projects
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛎️ Siyala HMS</h3>
-      <p>Multi-chain Hotel Management System for Sri Lanka hospitality with multi-location properties (e.g., Kandy & Hikkaduwa), kitchen inventory, vendor tracking, and multi-tier analytics.</p>
-      <div align="center">
+      <div align="left">
+        <img src="https://img.shields.io/badge/Enterprise-Hospitality%20SaaS-0284c7?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-🟢%20Active-10B981?style=flat-square" alt="Status" />
+      </div>
+      <h3>🛎️ Siyala HMS</h3>
+      <p>
+        Multi-chain Hotel Management System tailored for Sri Lankan hospitality with multi-location management (Kandy & Hikkaduwa), inventory tracking, vendor procurement, and tiered analytics.
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-      </div>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/YWanigaarachchi/Siyala_HMS1"><b>View Project ➔</b></a>
+      </p>
+      <p>
+        <a href="https://github.com/YWanigaarachchi/Siyala_HMS1">
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Siyala HMS" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏝️ Resortify HMS</h3>
-      <p>Decoupled Hotel Management System tailored for beach resorts. Built with Node.js/Express & React + Tailwind CSS, featuring dual-currency (LKR/USD) sync, real-time KOT, and VAT/SSCL tax compliance.</p>
-      <div align="center">
+      <div align="left">
+        <img src="https://img.shields.io/badge/Decoupled-Beach%20Resort%20HMS-0284c7?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-🟢%20Active-10B981?style=flat-square" alt="Status" />
+      </div>
+      <h3>🏝️ Resortify HMS</h3>
+      <p>
+        Modern decoupled Hotel Management System engineered for boutique resorts. Features real-time Kitchen Order Tickets (KOT), dual-currency (LKR/USD) sync, and automated VAT/SSCL tax compliance.
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
         <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" />
-      </div>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/YWanigaarachchi/Resortify-hms"><b>View Project ➔</b></a>
+      </p>
+      <p>
+        <a href="https://github.com/YWanigaarachchi/Resortify-hms">
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Resortify HMS" />
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🇱🇰 LankaRest HMS</h3>
-      <p>Scalable and modular Hotel Management System built for Sri Lanka's tourism sector. Features multi-tier room management, local payment gateway readiness, and seasonal pricing.</p>
-      <div align="center">
+      <div align="left">
+        <img src="https://img.shields.io/badge/Hospitality-Tourism%20Engine-0284c7?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-🟢%20Active-10B981?style=flat-square" alt="Status" />
+      </div>
+      <h3>🇱🇰 LankaRest HMS</h3>
+      <p>
+        Modular and high-efficiency Hotel Management platform built for Sri Lanka's tourism sector. Features multi-tier room management, dynamic seasonal pricing, and payment gateway readiness.
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-      </div>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/YWanigaarachchi/lankarest-hms"><b>View Project ➔</b></a>
+      </p>
+      <p>
+        <a href="https://github.com/YWanigaarachchi/lankarest-hms">
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View LankaRest HMS" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏨 Athithi HMS</h3>
-      <p>Modern Hotel Management System built for Sri Lankan boutique villas & luxury resorts. Supports room bookings, inventory tracking, guest management, and local billing compliance.</p>
-      <div align="center">
+      <div align="left">
+        <img src="https://img.shields.io/badge/Luxury-Boutique%20Villa%20HMS-0284c7?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-🟢%20Active-10B981?style=flat-square" alt="Status" />
+      </div>
+      <h3>🏨 Athithi HMS</h3>
+      <p>
+        Streamlined property and guest management system designed for luxury villas. Features room reservations, staff scheduling, inventory alerts, and rapid guest check-in workflows.
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-      </div>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/YWanigaarachchi/athithi-hms"><b>View Project ➔</b></a>
+      </p>
+      <p>
+        <a href="https://github.com/YWanigaarachchi/athithi-hms">
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Athithi HMS" />
+        </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🌿 GreenLife Wellness Center</h3>
-      <p>Holistic health web application for yoga, therapy, and nutrition. Enables appointment scheduling, client registrations, service inquiries, and therapist/admin management dashboards.</p>
-      <div align="center">
+      <div align="left">
+        <img src="https://img.shields.io/badge/HealthTech-Wellness%20Portal-0284c7?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-🟢%20Active-10B981?style=flat-square" alt="Status" />
+      </div>
+      <h3>🌿 GreenLife Wellness Center</h3>
+      <p>
+        Holistic health management web app for yoga, clinical therapy, and personalized nutrition. Features online booking, client intake records, and specialized therapist dashboards.
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
         <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-      </div>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/YWanigaarachchi/GreenLife_Wellness_Center"><b>View Project ➔</b></a>
+      </p>
+      <p>
+        <a href="https://github.com/YWanigaarachchi/GreenLife_Wellness_Center">
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View GreenLife" />
+        </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 ContextSync AI</h3>
-      <p>Intelligent Retrieval-Augmented Generation (RAG) system seamlessly connecting contextual AI knowledge retrieval with automated workflow execution.</p>
-      <div align="center">
+      <div align="left">
+        <img src="https://img.shields.io/badge/AI%20%2F%20ML-RAG%20System-0284c7?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-💡%20Intelligent-8B5CF6?style=flat-square" alt="Status" />
+      </div>
+      <h3>🤖 ContextSync AI</h3>
+      <p>
+        Intelligent Retrieval-Augmented Generation (RAG) platform bridging contextual vector search with automated downstream workflow execution and LLM agent orchestration.
+      </p>
+      <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
         <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-AI%2FML-FF6F00?logo=openai&logoColor=white&style=flat-square" />
-      </div>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/YWanigaarachchi/ContextSync-AI"><b>View Project ➔</b></a>
+        <img src="https://img.shields.io/badge/-OpenAI%2FLLM-412991?logo=openai&logoColor=white&style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/YWanigaarachchi/ContextSync-AI">
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View ContextSync AI" />
+        </a>
       </p>
     </td>
   </tr>
@@ -164,33 +294,56 @@ I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building di
 
 ---
 
+<!-- ======================================================= -->
+<!-- GITHUB METRICS & ANALYTICS                              -->
+<!-- ======================================================= -->
 ## 📈 GitHub Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YWanigaarachchi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=YWanigaarachchi&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=YWanigaarachchi&theme=tokyonight&show_icons=true&hide_border=false&border_radius=8&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://streak-stats.demolab.com?user=YWanigaarachchi&theme=tokyonight&hide_border=false&border_radius=8&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=79c0ff" height="175" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YWanigaarachchi&theme=tokyo-night&hide_border=true&area=true" width="96%" alt="Contribution Graph"/>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YWanigaarachchi&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages" />
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YWanigaarachchi&theme=tokyonight&utcOffset=5.5" height="165" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YWanigaarachchi&theme=tokyonight&utcOffset=5.5" height="160" alt="Productive Time"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YWanigaarachchi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YWanigaarachchi&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
 </div>
 
 <br/>
 
 ---
 
-## 🐍 Activity Map
+<!-- ======================================================= -->
+<!-- CONTRIBUTION ACTIVITY SNAKE                             -->
+<!-- ======================================================= -->
+## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
@@ -198,30 +351,64 @@ I'm a passionate **Full-Stack Developer & Cloud Engineer** who loves building di
 
 ---
 
-## 📝 Latest Blog Posts
+<!-- ======================================================= -->
+<!-- LATEST BLOG POSTS & WRITINGS                            -->
+<!-- ======================================================= -->
+## 📝 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 Coming soon — stay tuned for articles on Cloud, DevOps & Full-Stack development!
+- 🚀 *New engineering blogs arriving soon — stay tuned for deep-dives on Microservices, AWS, and Full-Stack development!*
 <!-- BLOG-POST-LIST:END -->
 
-▶️ [**...read more on Dev.to**](https://dev.to/)
+<p align="right">
+  <a href="https://dev.to/ywanigaarachchi"><b>Read more on Dev.to ➔</b></a>
+</p>
 
 <br/>
 
 ---
 
+<!-- ======================================================= -->
+<!-- INSPIRATION & DEV PHILOSOPHY                            -->
+<!-- ======================================================= -->
 <div align="center">
-  
-  ### Let's build something awesome together! 🚀
-  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+</div>
+
+<br/>
+
+---
+
+<!-- ======================================================= -->
+<!-- FOOTER & CONNECT                                        -->
+<!-- ======================================================= -->
+<div align="center">
+
+  <h2>🤝 Let's Build Something Impactful Together!</h2>
+  <p>
+    Whether you want to discuss a software project, explore collaboration, or chat about cloud architectures, my inbox is always open.
+  </p>
+
   <a href="https://github.com/YWanigaarachchi">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/yasas-wanigaarachchi">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  
+  &nbsp;
+  <a href="mailto:ywanigaarachchi@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
+  </a>
+  &nbsp;
+  <a href="https://ywanigaarachchi.github.io/Y_N_W/">
+    <img src="https://img.shields.io/badge/View%20Portfolio-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio" />
+  </a>
+
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,30:1d4ed8,70:111827,100:0b0f19&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
+
+  <p><i>Crafted with precision & passion by <b>Yasas Nirmitha Wanigaarachchi</b> ⚡</i></p>
 
 </div>
