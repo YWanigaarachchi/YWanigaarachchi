@@ -2,7 +2,7 @@
 <!-- HEADER & HERO BANNER                                    -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,30:111827,70:1d4ed8,100:0284c7&height=260&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=38&fontAlignY=40&fontColor=ffffff&desc=Full-Stack%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20DevOps%20Enthusiast&descSize=18&descAlignY=62&descColor=93c5fd&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,25:0f172a,70:1e40af,100:0284c7&height=260&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=38&fontAlignY=40&fontColor=ffffff&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20DevOps%20Enthusiast&descSize=18&descAlignY=62&descColor=93c5fd&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 <div align="center">
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Software+Engineer;☁️+Cloud-Native+%26+DevOps+Practitioner;⚡+Architecting+Scalable+Microservices;🏨+Building+Next-Gen+Hospitality+SaaS+(HMS);🤖+Integrating+AI+%26+RAG-Powered+Workflows;🎓+Software+Engineering+@+ICBT+Campus" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=🚀+Full-Stack+Software+Engineer;☁️+Cloud-Native+%26+DevOps+Practitioner;⚡+Architecting+Scalable+Microservices;🏨+Building+Next-Gen+Hospitality+SaaS+(HMS);🤖+Integrating+AI+%26+RAG-Powered+Workflows;🎓+Software+Engineering+@+ICBT+Campus;💡+Open+Source+Contributor+%26+Lifelong+Learner" alt="Typing SVG" />
   </a>
   <br/>
 </div>
@@ -64,28 +64,41 @@
     <td width="65%" valign="top">
       <h3>Hey there! 👋 I'm Yasas Nirmitha Wanigaarachchi</h3>
       <p>
-        I am a results-oriented <b>Full-Stack Software Engineer & Cloud Enthusiast</b> from <b>Sri Lanka 🇱🇰</b>. I bridge the gap between elegant product design and resilient cloud architectures.
+        I am a results-driven <b>Full-Stack Software Engineer & Cloud Architect</b> from <b>Sri Lanka 🇱🇰</b>. I love building high-performance web applications, distributed backend services, and cloud-native solutions that make a real difference.
       </p>
       <p>
-        My expertise centers on architecting <b>distributed microservices</b>, end-to-end <b>Hospitality SaaS platforms (HMS)</b>, and integrating <b>AI/RAG workflows</b> into production-ready software.
+        My core expertise spans building <b>scalable multi-tier SaaS systems (notably in Hospitality & ERP)</b>, designing resilient <b>microservices architectures</b>, and integrating <b>AI / Retrieval-Augmented Generation (RAG)</b> capabilities.
       </p>
       <ul>
         <li>🎓 <b>Education:</b> Software Engineering @ ICBT Campus</li>
-        <li>🔭 <b>Current Focus:</b> Distributed Microservices, Event-Driven Systems & Cloud Native Ops</li>
-        <li>☁️ <b>Cloud Journey:</b> AWS Cloud Architecture, Docker, Kubernetes & CI/CD automation</li>
-        <li>💡 <b>Core Philosophy:</b> Clean Code • High Availability • Frictionless UX</li>
+        <li>🔭 <b>Current Focus:</b> Distributed Microservices, Event-Driven Architecture & Cloud Systems</li>
+        <li>☁️ <b>Cloud Journey:</b> AWS Cloud Architecture, Docker, Kubernetes & automated CI/CD</li>
+        <li>💡 <b>Core Philosophy:</b> Clean Architecture • High Reliability • Elegant UX</li>
         <li>📫 <b>Contact:</b> <a href="mailto:ywanigaarachchi@gmail.com">ywanigaarachchi@gmail.com</a></li>
       </ul>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/YWanigaarachchi/YWanigaarachchi/main/.github/assets/developer.svg" onerror="this.onerror=null; this.src='https://images.weserv.nl/?url=https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif&w=260&h=260&fit=cover&a=top';" width="240px" style="border-radius: 12px;" alt="Coding Avatar" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240px" style="border-radius: 12px;" alt="Coding Animation" />
       <br/><br/>
       <a href="https://ywanigaarachchi.github.io/Y_N_W/">
-        <img src="https://img.shields.io/badge/🌐%20Visit%20Personal%20Website-0284c7?style=for-the-badge&logoColor=white" alt="Personal Website" />
+        <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-0284c7?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
       </a>
     </td>
   </tr>
 </table>
+
+<br/>
+
+---
+
+<!-- ======================================================= -->
+<!-- GITHUB TROPHIES                                         -->
+<!-- ======================================================= -->
+<div align="center">
+  <a href="https://github.com/YWanigaarachchi">
+    <img src="https://github-profile-trophy.vercel.app/?username=YWanigaarachchi&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
 
 <br/>
 
@@ -300,29 +313,16 @@
 ## 📈 GitHub Metrics & Analytics
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=YWanigaarachchi&theme=tokyonight&show_icons=true&hide_border=false&border_radius=8&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
-      </td>
-      <td align="center" valign="middle">
-        <img src="https://streak-stats.demolab.com?user=YWanigaarachchi&theme=tokyonight&hide_border=false&border_radius=8&background=0d1117&border=30363d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=58a6ff&sideNums=c9d1d9&currStreakLabel=79c0ff" height="175" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=YWanigaarachchi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=YWanigaarachchi&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YWanigaarachchi&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top Languages" />
-      </td>
-      <td align="center" valign="middle" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YWanigaarachchi&theme=tokyonight&utcOffset=5.5" height="165" alt="Productive Time" />
-      </td>
-    </tr>
-  </table>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YWanigaarachchi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YWanigaarachchi&theme=tokyonight&utcOffset=5.5" height="165" alt="Productive Time" />
 </div>
 
 <div align="center">
@@ -407,7 +407,7 @@
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,30:1d4ed8,70:111827,100:0b0f19&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,25:1e40af,75:0f172a,100:0b0f19&height=130&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
 
   <p><i>Crafted with precision & passion by <b>Yasas Nirmitha Wanigaarachchi</b> ⚡</i></p>
 
