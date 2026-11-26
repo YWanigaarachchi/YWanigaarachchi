@@ -2,18 +2,18 @@
 <!-- HEADER & HERO BANNER                                    -->
 <!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,25:0f172a,70:1e40af,100:0284c7&height=260&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=38&fontAlignY=40&fontColor=ffffff&desc=Full-Stack%20Software%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20DevOps%20Enthusiast&descSize=18&descAlignY=62&descColor=93c5fd&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,25:0f172a,70:1e40af,100:0284c7&height=260&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=38&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20BSc%20(Hons)%20in%20Software%20Engineering%20(Reading)%20%E2%80%A2%20Cloud%20Architect&descSize=17&descAlignY=62&descColor=93c5fd&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://github.com/YWanigaarachchi">
     <img src="https://img.shields.io/badge/Status-🟢%20Open%20to%20Opportunities-0f172a?style=for-the-badge&labelColor=0284c7&color=0f172a" alt="Status Badge" />
   </a>
-  <a href="https://github.com/YWanigaarachchi">
-    <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20Views&color=0284c7&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <a href="#-education--academic-journey">
+    <img src="https://img.shields.io/badge/BSc%20(Hons)-Software%20Engineering%20(Reading)-0f172a?style=for-the-badge&labelColor=38bdf8&color=0f172a" alt="BSc (Hons) SE" />
   </a>
-  <a href="https://github.com/YWanigaarachchi?tab=followers">
-    <img src="https://img.shields.io/github/followers/YWanigaarachchi?label=Followers&style=for-the-badge&color=0284c7&logo=github" alt="Followers" />
+  <a href="#-education--academic-journey">
+    <img src="https://img.shields.io/badge/Higher%20Diploma-Merit%20Pass%20🏆-0f172a?style=for-the-badge&labelColor=10b981&color=0f172a" alt="Higher Diploma Merit Pass" />
   </a>
   <a href="https://ywanigaarachchi.github.io/Y_N_W/">
     <img src="https://img.shields.io/badge/Portfolio-🌐%20Explore%20Showcase-0284c7?style=for-the-badge&logoColor=white" alt="Portfolio" />
@@ -22,8 +22,23 @@
 
 <div align="center">
   <br/>
+  <a href="https://github.com/YWanigaarachchi">
+    <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20Views&color=0284c7&style=flat-square&logo=eye" alt="Profile Views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/YWanigaarachchi?tab=followers">
+    <img src="https://img.shields.io/github/followers/YWanigaarachchi?label=Followers&style=flat-square&color=0284c7&logo=github" alt="Followers" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cardiff%20Metropolitan%20University-Academic%20Partner-e11d48?style=flat-square&logo=google-scholar&logoColor=white" alt="Cardiff Met University" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-0284c7?style=flat-square" alt="Location" />
+</div>
+
+<div align="center">
+  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=🚀+Full-Stack+Software+Engineer;☁️+Cloud-Native+%26+DevOps+Practitioner;⚡+Architecting+Scalable+Microservices;🏨+Building+Next-Gen+Hospitality+SaaS+(HMS);🤖+Integrating+AI+%26+RAG-Powered+Workflows;🎓+Software+Engineering+@+ICBT+Campus;💡+Open+Source+Contributor+%26+Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full-Stack+Software+Engineer+%26+Cloud+Architect;🎓+Reading+BSc+(Hons)+in+Software+Engineering;📜+HDip+in+Computer+Science+%26+Software+Engineering+(Merit);🏛️+Cardiff+Metropolitan+University;⚡+Architecting+Scalable+Microservices+%26+Cloud-Native+SaaS;🏨+Building+Next-Gen+Hospitality+SaaS+(HMS);🤖+Integrating+AI+%26+RAG-Powered+Workflows;💡+Open+Source+Contributor+%26+Lifelong+Learner" alt="Typing SVG" />
   </a>
   <br/>
 </div>
@@ -64,17 +79,18 @@
     <td width="65%" valign="top">
       <h3>Hey there! 👋 I'm Yasas Nirmitha Wanigaarachchi</h3>
       <p>
-        I am a results-driven <b>Full-Stack Software Engineer & Cloud Architect</b> from <b>Sri Lanka 🇱🇰</b>. I love building high-performance web applications, distributed backend services, and cloud-native solutions that make a real difference.
+        I am a passionate <b>Full-Stack Software Engineer & Cloud Architect</b> from <b>Sri Lanka 🇱🇰</b>. I love building high-performance web applications, resilient distributed systems, and modern cloud-native software solutions.
       </p>
       <p>
-        My core expertise spans building <b>scalable multi-tier SaaS systems (notably in Hospitality & ERP)</b>, designing resilient <b>microservices architectures</b>, and integrating <b>AI / Retrieval-Augmented Generation (RAG)</b> capabilities.
+        My expertise includes architecting <b>enterprise multi-tier SaaS platforms (notably in Hospitality & ERP)</b>, decoupling services with <b>microservices & event-driven design</b>, and integrating intelligent <b>AI / Retrieval-Augmented Generation (RAG)</b> capabilities.
       </p>
       <ul>
-        <li>🎓 <b>Education:</b> Software Engineering @ ICBT Campus</li>
-        <li>🔭 <b>Current Focus:</b> Distributed Microservices, Event-Driven Architecture & Cloud Systems</li>
-        <li>☁️ <b>Cloud Journey:</b> AWS Cloud Architecture, Docker, Kubernetes & automated CI/CD</li>
-        <li>💡 <b>Core Philosophy:</b> Clean Architecture • High Reliability • Elegant UX</li>
-        <li>📫 <b>Contact:</b> <a href="mailto:ywanigaarachchi@gmail.com">ywanigaarachchi@gmail.com</a></li>
+        <li>🎓 <b>Undergraduate Degree:</b> Reading <b>BSc (Hons) in Software Engineering</b> — <i>Cardiff Metropolitan University</i></li>
+        <li>📜 <b>Higher Diploma:</b> <b>Higher Diploma in Computer Science & Software Engineering</b> (<b>Merit Pass 🏆</b>) — <i>Cardiff Metropolitan University</i></li>
+        <li>🔭 <b>Specialization:</b> Distributed Microservices, Full-Stack SaaS Systems, & Cloud Engineering</li>
+        <li>☁️ <b>Cloud & DevOps:</b> AWS Cloud Architecture, Docker, Kubernetes, & Automated CI/CD Pipelines</li>
+        <li>💡 <b>Engineering Mindset:</b> Clean Code • Domain-Driven Design • High Reliability • Elegant UX</li>
+        <li>📫 <b>Get in Touch:</b> <a href="mailto:ywanigaarachchi@gmail.com">ywanigaarachchi@gmail.com</a></li>
       </ul>
     </td>
     <td width="35%" valign="middle" align="center">
@@ -83,6 +99,52 @@
       <a href="https://ywanigaarachchi.github.io/Y_N_W/">
         <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-0284c7?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
       </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ======================================================= -->
+<!-- EDUCATION & ACADEMIC CREDENTIALS                        -->
+<!-- ======================================================= -->
+## 🎓 Education & Academic Journey
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/Degree-Undergraduate-38BDF8?style=flat-square" alt="Degree" />
+        <img src="https://img.shields.io/badge/Status-📘%20Currently%20Reading-0284c7?style=flat-square" alt="Status" />
+      </div>
+      <h3>🎓 BSc (Hons) in Software Engineering</h3>
+      <p><b>🏛️ Cardiff Metropolitan University</b></p>
+      <p>
+        Currently pursuing the Bachelor of Science (Honours) degree in Software Engineering. Key study areas include advanced software engineering principles, enterprise system architecture, distributed computing, cloud deployment, and software quality engineering.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Discipline-Software%20Engineering-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Level-BSc%20(Hons)-1e40af?style=flat-square" />
+        <img src="https://img.shields.io/badge/Progress-In%20Progress-10B981?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/Diploma-Higher%20Diploma-8B5CF6?style=flat-square" alt="Diploma" />
+        <img src="https://img.shields.io/badge/Grade-🏆%20Merit%20Pass-10B981?style=flat-square" alt="Merit Pass" />
+      </div>
+      <h3>📜 Higher Diploma in Computer Science & Software Engineering</h3>
+      <p><b>🏛️ Cardiff Metropolitan University</b></p>
+      <p>
+        Successfully completed with a distinguished <b>Merit Pass</b>. Comprehensive foundation spanning object-oriented software engineering, database management systems, data structures & algorithms, full-stack web applications, and agile engineering workflows.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Achievement-Merit%20Pass%20🎖️-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Field-CS%20%26%20SE-6366f1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-Completed%20✓-0284c7?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
