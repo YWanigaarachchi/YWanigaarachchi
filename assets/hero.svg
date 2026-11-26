@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="100%" role="img" aria-label="Yasas Nirmitha Wanigaarachchi - Software Engineer &amp; Cloud Architect">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16"/>
+      <stop offset="50%" stop-color="#0D1220"/>
+      <stop offset="100%" stop-color="#090D16"/>
+    </linearGradient>
+
+    <radialGradient id="orbViolet" cx="18%" cy="22%" r="45%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="orbCyan" cx="85%" cy="78%" r="48%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#E0F2FE"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <linearGradient id="accentBar" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+
+    <pattern id="dotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#334155" fill-opacity="0.45"/>
+    </pattern>
+
+    <clipPath id="cardClip">
+      <rect x="1" y="1" width="998" height="318" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    @keyframes pulseDot {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.35; }
+    }
+    @keyframes blinkCursor {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes orbFloat {
+      0%, 100% { opacity: 0.85; }
+      50% { opacity: 1; }
+    }
+    .live-dot { animation: pulseDot 2s ease-in-out infinite; }
+    .cursor { animation: blinkCursor 1.1s step-end infinite; }
+    .orb { animation: orbFloat 5s ease-in-out infinite; }
+  </style>
+
+  <g clip-path="url(#cardClip)">
+    <!-- Base Obsidian Background -->
+    <rect x="0" y="0" width="1000" height="320" fill="url(#bgGrad)"/>
+    <rect x="0" y="0" width="1000" height="320" fill="url(#dotGrid)"/>
+
+    <!-- Ambient Glowing Orbs -->
+    <rect x="0" y="0" width="1000" height="320" fill="url(#orbViolet)" class="orb"/>
+    <rect x="0" y="0" width="1000" height="320" fill="url(#orbCyan)" class="orb"/>
+
+    <!-- Top Terminal Bar -->
+    <rect x="0" y="0" width="1000" height="44" fill="#0F1624" fill-opacity="0.82"/>
+    <line x1="0" y1="44" x2="1000" y2="44" stroke="#1E293B" stroke-width="1"/>
+
+    <!-- Window Controls -->
+    <circle cx="28" cy="22" r="5.5" fill="#EF4444" fill-opacity="0.85"/>
+    <circle cx="46" cy="22" r="5.5" fill="#F59E0B" fill-opacity="0.85"/>
+    <circle cx="64" cy="22" r="5.5" fill="#10B981" fill-opacity="0.85"/>
+
+    <!-- Terminal Path -->
+    <text x="86" y="26" fill="#64748B" font-size="12" class="mono">~/yasas-wanigaarachchi/profile.tsx</text>
+
+    <!-- Top Right Status Pill -->
+    <rect x="708" y="10" width="268" height="24" rx="12" fill="#064E3B" fill-opacity="0.45" stroke="#10B981" stroke-opacity="0.5" stroke-width="1"/>
+    <circle cx="724" cy="22" r="4" fill="#10B981" class="live-dot"/>
+    <text x="736" y="26" fill="#6EE7B7" font-size="11" font-weight="600" letter-spacing="0.6" class="mono">OPEN TO OPPORTUNITIES · LK</text>
+
+    <!-- Command Prompt Intro -->
+    <text x="48" y="88" fill="#22D3EE" font-size="13" font-weight="600" class="mono">$ whoami</text>
+    <rect x="116" y="76" width="8" height="14" fill="#A78BFA" class="cursor"/>
+
+    <!-- Main Hero Name -->
+    <text x="48" y="138" fill="url(#nameGrad)" font-size="38" font-weight="800" letter-spacing="0.5" class="sans">Yasas Nirmitha Wanigaarachchi</text>
+
+    <!-- Role Subtitle -->
+    <text x="48" y="172" fill="#CBD5E1" font-size="17" font-weight="500" class="sans">
+      Full-Stack Software Engineer  <tspan fill="#7C3AED">•</tspan>  Cloud Architect  <tspan fill="#06B6D4">•</tspan>  SaaS &amp; AI Systems Builder
+    </text>
+
+    <!-- Highlight Credential Cards inside Hero -->
+    <!-- Pill 1: BSc (Hons) -->
+    <rect x="48" y="204" width="444" height="68" rx="12" fill="#111827" fill-opacity="0.85" stroke="#7C3AED" stroke-opacity="0.45" stroke-width="1"/>
+    <rect x="48" y="204" width="4" height="68" rx="2" fill="#7C3AED"/>
+    <text x="68" y="228" fill="#A78BFA" font-size="10.5" font-weight="700" letter-spacing="1" class="mono">CURRENTLY READING · UNDERGRADUATE</text>
+    <text x="68" y="248" fill="#F8FAFC" font-size="14" font-weight="700" class="sans">BSc (Hons) in Software Engineering</text>
+    <text x="68" y="264" fill="#94A3B8" font-size="11.5" class="sans">Cardiff Metropolitan University</text>
+
+    <!-- Pill 2: Higher Diploma Merit Pass -->
+    <rect x="508" y="204" width="444" height="68" rx="12" fill="#111827" fill-opacity="0.85" stroke="#10B981" stroke-opacity="0.45" stroke-width="1"/>
+    <rect x="508" y="204" width="4" height="68" rx="2" fill="#10B981"/>
+    <text x="528" y="228" fill="#34D399" font-size="10.5" font-weight="700" letter-spacing="1" class="mono">COMPLETED · MERIT PASS ★</text>
+    <text x="528" y="248" fill="#F8FAFC" font-size="14" font-weight="700" class="sans">Higher Diploma in CS &amp; Software Engineering</text>
+    <text x="528" y="264" fill="#94A3B8" font-size="11.5" class="sans">Cardiff Metropolitan University</text>
+
+    <!-- Bottom Gradient Accent Line -->
+    <rect x="0" y="314" width="1000" height="6" fill="url(#accentBar)"/>
+  </g>
+
+  <!-- Crisp Outer Border -->
+  <rect x="1" y="1" width="998" height="318" rx="18" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+</svg>

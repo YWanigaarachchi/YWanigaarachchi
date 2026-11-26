@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" role="img" aria-label="Academic Credentials - Cardiff Metropolitan University">
+  <defs>
+    <linearGradient id="leftTop" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="rightTop" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F1624"/>
+      <stop offset="100%" stop-color="#090D16"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <!-- ==================== LEFT CARD: BSc (Hons) ==================== -->
+  <g>
+    <rect x="1" y="1" width="486" height="248" rx="16" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="1" y="1" width="486" height="5" rx="3" fill="url(#leftTop)"/>
+
+    <!-- Badges -->
+    <rect x="24" y="24" width="134" height="22" rx="6" fill="#4C1D95" fill-opacity="0.55" stroke="#7C3AED" stroke-opacity="0.6"/>
+    <text x="91" y="39" text-anchor="middle" fill="#C4B5FD" font-size="10" font-weight="700" letter-spacing="0.8" class="mono">HONOURS DEGREE</text>
+
+    <rect x="168" y="24" width="142" height="22" rx="6" fill="#164E63" fill-opacity="0.55" stroke="#06B6D4" stroke-opacity="0.6"/>
+    <text x="239" y="39" text-anchor="middle" fill="#67E8F9" font-size="10" font-weight="700" letter-spacing="0.8" class="mono">CURRENTLY READING</text>
+
+    <!-- Title & University -->
+    <text x="24" y="80" fill="#F8FAFC" font-size="19" font-weight="800" class="sans">BSc (Hons) in Software Engineering</text>
+    <text x="24" y="103" fill="#38BDF8" font-size="13" font-weight="600" class="sans">Cardiff Metropolitan University</text>
+
+    <!-- Divider -->
+    <line x1="24" y1="120" x2="462" y2="120" stroke="#1E293B" stroke-width="1"/>
+
+    <!-- Core Focus Chips -->
+    <rect x="24" y="134" width="212" height="28" rx="7" fill="#111827" stroke="#334155" stroke-width="1"/>
+    <text x="36" y="152" fill="#CBD5E1" font-size="11.5" class="sans">⚡ Enterprise Architecture</text>
+
+    <rect x="246" y="134" width="216" height="28" rx="7" fill="#111827" stroke="#334155" stroke-width="1"/>
+    <text x="258" y="152" fill="#CBD5E1" font-size="11.5" class="sans">☁️ Distributed &amp; Cloud Systems</text>
+
+    <rect x="24" y="170" width="212" height="28" rx="7" fill="#111827" stroke="#334155" stroke-width="1"/>
+    <text x="36" y="188" fill="#CBD5E1" font-size="11.5" class="sans">🛡️ Software Quality &amp; Testing</text>
+
+    <rect x="246" y="170" width="216" height="28" rx="7" fill="#111827" stroke="#334155" stroke-width="1"/>
+    <text x="258" y="188" fill="#CBD5E1" font-size="11.5" class="sans">🚀 Agile &amp; DevOps Engineering</text>
+
+    <!-- Progress Bar -->
+    <text x="24" y="220" fill="#94A3B8" font-size="10.5" font-weight="600" class="mono">ACADEMIC STATUS: IN PROGRESS</text>
+    <rect x="24" y="228" width="438" height="6" rx="3" fill="#1E293B"/>
+    <rect x="24" y="228" width="310" height="6" rx="3" fill="url(#leftTop)"/>
+  </g>
+
+  <!-- ==================== RIGHT CARD: Higher Diploma ==================== -->
+  <g transform="translate(512, 0)">
+    <rect x="1" y="1" width="486" height="248" rx="16" fill="url(#cardBg)" stroke="#1E293B" stroke-width="1.5"/>
+    <rect x="1" y="1" width="486" height="5" rx="3" fill="url(#rightTop)"/>
+
+    <!-- Badges -->
+    <rect x="24" y="24" width="134" height="22" rx="6" fill="#1E293B" stroke="#475569"/>
+    <text x="91" y="39" text-anchor="middle" fill="#E2E8F0" font-size="10" font-weight="700" letter-spacing="0.8" class="mono">HIGHER DIPLOMA</text>
+
+    <rect x="168" y="24" width="128" height="22" rx="6" fill="#064E3B" fill-opacity="0.65" stroke="#10B981" stroke-opacity="0.8"/>
+    <text x="232" y="39" text-anchor="middle" fill="#6EE7B7" font-size="10" font-weight="700" letter-spacing="0.8" class="mono">★ MERIT PASS</text>
+
+    <!-- Title & University -->
+    <text x="24" y="80" fill="#F8FAFC" font-size="18.5" font-weight="800" class="sans">Higher Diploma in CS &amp; Software Eng.</text>
+    <text x="24" y="103" fill="#34D399" font-size="13" font-weight="600" class="sans">Cardiff Metropolitan University</text>
+
+    <!-- Divider -->
+    <line x1="24" y1="120" x2="462" y2="120" stroke="#1E293B" stroke-width="1"/>
+
+    <!-- Core Focus Chips -->
+    <rect x="24" y="134" width="212" height="28" rx="7" fill="#111827" stroke="#334155" stroke-width="1"/>
+    <text x="36" y="152" fill="#CBD5E1" font-size="11.5" class="sans">🧩 Object-Oriented Engineering</text>
+
+    <rect x="246" y="134" width="216" height="28" rx="7" fill="#111827" stroke="#334155" stroke-width="1"/>
+    <text x="258" y="152" fill="#CBD5E1" font-size="11.5" class="sans">📐 Data Structures &amp; Algorithms</text>
+
+    <rect x="24" y="170" width="212" height="28" rx="7" fill="#111827" stroke="#334155" stroke-width="1"/>
+    <text x="36" y="188" fill="#CBD5E1" font-size="11.5" class="sans">🗄️ Database &amp; SQL Optimization</text>
+
+    <rect x="246" y="170" width="216" height="28" rx="7" fill="#111827" stroke="#334155" stroke-width="1"/>
+    <text x="258" y="188" fill="#CBD5E1" font-size="11.5" class="sans">🌐 Full-Stack Web &amp; APIs</text>
+
+    <!-- Completion Bar -->
+    <text x="24" y="220" fill="#34D399" font-size="10.5" font-weight="600" class="mono">COMPLETED · AWARDED WITH MERIT PASS ✓</text>
+    <rect x="24" y="228" width="438" height="6" rx="3" fill="url(#rightTop)"/>
+  </g>
+</svg>
