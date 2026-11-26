@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ywanigaarachchi.github.io/Y_N_W/">
+  <a href="https://ywanigaarachchi.github.io/Yasas-Wanigaarachchi/">
     <img src="./assets/hero.svg" width="100%" alt="Yasas Nirmitha Wanigaarachchi — Full-Stack Software Engineer & Cloud Architect" />
   </a>
 </div>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0F1624?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://ywanigaarachchi.github.io/Y_N_W/" target="_blank">
+  <a href="https://ywanigaarachchi.github.io/Yasas-Wanigaarachchi/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F1624?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio" />
   </a>
   &nbsp;
