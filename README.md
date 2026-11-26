@@ -1,103 +1,115 @@
-<!-- ======================================================= -->
-<!-- HEADER & HERO BANNER                                    -->
-<!-- ======================================================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,25:0f172a,70:1e40af,100:0284c7&height=260&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=38&fontAlignY=40&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20BSc%20(Hons)%20in%20Software%20Engineering%20(Reading)%20%E2%80%A2%20Cloud%20Architect&descSize=17&descAlignY=62&descColor=93c5fd&animation=twinkling" width="100%" alt="Header Banner" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/YWanigaarachchi">
-    <img src="https://img.shields.io/badge/Status-🟢%20Open%20to%20Opportunities-0f172a?style=for-the-badge&labelColor=0284c7&color=0f172a" alt="Status Badge" />
-  </a>
-  <a href="#-education--academic-journey">
-    <img src="https://img.shields.io/badge/BSc%20(Hons)-Software%20Engineering%20(Reading)-0f172a?style=for-the-badge&labelColor=38bdf8&color=0f172a" alt="BSc (Hons) SE" />
-  </a>
-  <a href="#-education--academic-journey">
-    <img src="https://img.shields.io/badge/Higher%20Diploma-Merit%20Pass%20🏆-0f172a?style=for-the-badge&labelColor=10b981&color=0f172a" alt="Higher Diploma Merit Pass" />
-  </a>
-  <a href="https://ywanigaarachchi.github.io/Y_N_W/">
-    <img src="https://img.shields.io/badge/Portfolio-🌐%20Explore%20Showcase-0284c7?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
+  <!-- ======================================================== -->
+  <!-- HERO BANNER                                              -->
+  <!-- ======================================================== -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:090d16,35:0f172a,75:1e3a8a,100:0284c7&height=280&section=header&text=Yasas%20Nirmitha%20Wanigaarachchi&fontSize=40&fontAlignY=42&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20BSc%20(Hons)%20SE%20(Reading)%20%E2%80%A2%20Cloud%20Architect&descSize=18&descAlignY=64&descColor=38bdf8&animation=twinkling" width="100%" alt="Header Banner" />
 
-<div align="center">
-  <br/>
-  <a href="https://github.com/YWanigaarachchi">
-    <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20Views&color=0284c7&style=flat-square&logo=eye" alt="Profile Views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/YWanigaarachchi?tab=followers">
-    <img src="https://img.shields.io/github/followers/YWanigaarachchi?label=Followers&style=flat-square&color=0284c7&logo=github" alt="Followers" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cardiff%20Metropolitan%20University-Academic%20Partner-e11d48?style=flat-square&logo=google-scholar&logoColor=white" alt="Cardiff Met University" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-0284c7?style=flat-square" alt="Location" />
-</div>
+  <!-- ======================================================== -->
+  <!-- QUICK HIGHLIGHT BADGES                                   -->
+  <!-- ======================================================== -->
+  <p align="center">
+    <a href="https://github.com/YWanigaarachchi">
+      <img src="https://img.shields.io/badge/Status-🟢%20Open%20to%20Opportunities-0f172a?style=for-the-badge&labelColor=0284c7&color=0f172a" alt="Status" />
+    </a>
+    <a href="#-academic-credentials--education">
+      <img src="https://img.shields.io/badge/BSc%20(Hons)-Software%20Engineering%20(Reading)-0f172a?style=for-the-badge&labelColor=38bdf8&color=0f172a" alt="BSc (Hons) SE" />
+    </a>
+    <a href="#-academic-credentials--education">
+      <img src="https://img.shields.io/badge/Higher%20Diploma-Merit%20Pass%20🏆-0f172a?style=for-the-badge&labelColor=10b981&color=0f172a" alt="Higher Diploma Merit Pass" />
+    </a>
+    <a href="https://ywanigaarachchi.github.io/Y_N_W/">
+      <img src="https://img.shields.io/badge/Portfolio-🌐%20Explore%20Showcase-0f172a?style=for-the-badge&labelColor=8b5cf6&color=0f172a" alt="Portfolio" />
+    </a>
+  </p>
 
-<div align="center">
-  <br/>
+  <!-- ======================================================== -->
+  <!-- COUNTERS & QUICK META                                    -->
+  <!-- ======================================================== -->
+  <p align="center">
+    <a href="https://github.com/YWanigaarachchi">
+      <img src="https://komarev.com/ghpvc/?username=ywanigaarachchi&label=Profile%20Views&color=0284c7&style=flat-square&logo=eye" alt="Profile Views" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/YWanigaarachchi?tab=followers">
+      <img src="https://img.shields.io/github/followers/YWanigaarachchi?label=Followers&style=flat-square&color=0284c7&logo=github" alt="Followers" />
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/University-Cardiff%20Metropolitan-e11d48?style=flat-square&logo=academia&logoColor=white" alt="Cardiff Met" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-0284c7?style=flat-square" alt="Location" />
+  </p>
+
+  <!-- ======================================================== -->
+  <!-- DYNAMIC TYPING SVG                                       -->
+  <!-- ======================================================== -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=🚀+Full-Stack+Software+Engineer+%26+Cloud+Architect;🎓+Reading+BSc+(Hons)+in+Software+Engineering;📜+HDip+in+Computer+Science+%26+Software+Engineering+(Merit);🏛️+Cardiff+Metropolitan+University;⚡+Architecting+Scalable+Microservices+%26+Cloud-Native+SaaS;🏨+Building+Next-Gen+Hospitality+SaaS+(HMS);🤖+Integrating+AI+%26+RAG-Powered+Workflows;💡+Open+Source+Contributor+%26+Lifelong+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=👋+Hey+there!+I'm+Yasas+Nirmitha+Wanigaarachchi;🎓+Reading+BSc+(Hons)+in+Software+Engineering+%40+Cardiff+Met;📜+Higher+Diploma+in+CS+%26+Software+Engineering+(Merit+Pass);🚀+Full-Stack+Software+Engineer+%26+Cloud+Architect;⚡+Building+Scalable+Microservices+%26+Hospitality+SaaS;🤖+Integrating+AI%2C+LLMs+%26+Vector-Powered+RAG+Pipelines;☁️+Cloud-Native+Practitioner+(AWS+%7C+Docker+%7C+CI%2FCD);💡+Lifelong+Learner+%26+Clean+Architecture+Advocate" alt="Typing SVG" />
   </a>
-  <br/>
-</div>
 
-<div align="center">
-  <a href="https://linkedin.com/in/yasas-wanigaarachchi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/YWanigaarachchi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="mailto:ywanigaarachchi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://ywanigaarachchi.github.io/Y_N_W/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0284c7?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
-  </a>
-  &nbsp;
-  <a href="https://dev.to/ywanigaarachchi" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
+  <br/><br/>
+
+  <!-- ======================================================== -->
+  <!-- SOCIAL CONNECT BUTTONS                                   -->
+  <!-- ======================================================== -->
+  <p align="center">
+    <a href="https://linkedin.com/in/yasas-wanigaarachchi" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/YWanigaarachchi" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="mailto:ywanigaarachchi@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://ywanigaarachchi.github.io/Y_N_W/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="https://dev.to/ywanigaarachchi" target="_blank">
+      <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+    </a>
+  </p>
+
 </div>
 
 <br/>
 
 ---
 
-<!-- ======================================================= -->
-<!-- ABOUT ME & EXECUTIVE SUMMARY                            -->
-<!-- ======================================================= -->
+<!-- ======================================================== -->
+<!-- ABOUT ME & EXECUTIVE SUMMARY                             -->
+<!-- ======================================================== -->
 ## 👨‍💻 About Me
 
 <table>
   <tr>
     <td width="65%" valign="top">
-      <h3>Hey there! 👋 I'm Yasas Nirmitha Wanigaarachchi</h3>
+      <h3>👋 Welcome to my digital workspace!</h3>
       <p>
-        I am a passionate <b>Full-Stack Software Engineer & Cloud Architect</b> from <b>Sri Lanka 🇱🇰</b>. I love building high-performance web applications, resilient distributed systems, and modern cloud-native software solutions.
+        I am a versatile <b>Full-Stack Software Engineer & Cloud Architect</b> based in <b>Sri Lanka 🇱🇰</b>. I specialize in designing scalable web ecosystems, decoupled backend microservices, and high-availability cloud platforms.
       </p>
       <p>
-        My expertise includes architecting <b>enterprise multi-tier SaaS platforms (notably in Hospitality & ERP)</b>, decoupling services with <b>microservices & event-driven design</b>, and integrating intelligent <b>AI / Retrieval-Augmented Generation (RAG)</b> capabilities.
+        My core engineering focus revolves around solving complex domain challenges—engineering resilient <b>Enterprise SaaS solutions (particularly in Hospitality, ERP, and Healthcare)</b> and unlocking new potential through <b>Artificial Intelligence (AI), Retrieval-Augmented Generation (RAG)</b>, and workflow automation.
       </p>
       <ul>
-        <li>🎓 <b>Undergraduate Degree:</b> Reading <b>BSc (Hons) in Software Engineering</b> — <i>Cardiff Metropolitan University</i></li>
-        <li>📜 <b>Higher Diploma:</b> <b>Higher Diploma in Computer Science & Software Engineering</b> (<b>Merit Pass 🏆</b>) — <i>Cardiff Metropolitan University</i></li>
-        <li>🔭 <b>Specialization:</b> Distributed Microservices, Full-Stack SaaS Systems, & Cloud Engineering</li>
-        <li>☁️ <b>Cloud & DevOps:</b> AWS Cloud Architecture, Docker, Kubernetes, & Automated CI/CD Pipelines</li>
-        <li>💡 <b>Engineering Mindset:</b> Clean Code • Domain-Driven Design • High Reliability • Elegant UX</li>
-        <li>📫 <b>Get in Touch:</b> <a href="mailto:ywanigaarachchi@gmail.com">ywanigaarachchi@gmail.com</a></li>
+        <li>🎓 <b>Academic Track:</b> Currently Reading <b>BSc (Hons) in Software Engineering</b></li>
+        <li>🏆 <b>Academic Milestone:</b> <b>Higher Diploma in CS & Software Engineering</b> (Merit Pass)</li>
+        <li>🏛️ <b>Institution:</b> Cardiff Metropolitan University</li>
+        <li>⚡ <b>Specialization:</b> Distributed Systems, Microservices, Cloud Architecture & Scalable SaaS</li>
+        <li>☁️ <b>Cloud Technologies:</b> AWS Solutions Architecture, Docker, Kubernetes, & Automated CI/CD</li>
+        <li>🌱 <b>Philosophy:</b> Maintainable Architecture • High Performance • User-Centric Design</li>
+        <li>📫 <b>Direct Inbox:</b> <a href="mailto:ywanigaarachchi@gmail.com">ywanigaarachchi@gmail.com</a></li>
       </ul>
     </td>
     <td width="35%" valign="middle" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240px" style="border-radius: 12px;" alt="Coding Animation" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" style="border-radius: 14px;" alt="Coding Animation" />
       <br/><br/>
       <a href="https://ywanigaarachchi.github.io/Y_N_W/">
-        <img src="https://img.shields.io/badge/🌐%20Explore%20My%20Portfolio-0284c7?style=for-the-badge&logoColor=white" alt="Portfolio Website" />
+        <img src="https://img.shields.io/badge/🌐%20View%20Interactive%20Portfolio-0284c7?style=for-the-badge&logoColor=white" alt="Portfolio" />
       </a>
     </td>
   </tr>
@@ -107,42 +119,56 @@
 
 ---
 
-<!-- ======================================================= -->
-<!-- EDUCATION & ACADEMIC CREDENTIALS                        -->
-<!-- ======================================================= -->
-## 🎓 Education & Academic Journey
+<!-- ======================================================== -->
+<!-- ACADEMIC CREDENTIALS & EDUCATION                         -->
+<!-- ======================================================== -->
+## 🎓 Academic Credentials & Education
 
 <table width="100%">
   <tr>
+    <!-- BSc (Hons) Card -->
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Degree-Undergraduate-38BDF8?style=flat-square" alt="Degree" />
-        <img src="https://img.shields.io/badge/Status-📘%20Currently%20Reading-0284c7?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Degree-Undergraduate%20Degree-38bdf8?style=flat-square" alt="Degree" />
+        <img src="https://img.shields.io/badge/Status-📘%20Currently%20Reading-0284c7?style=flat-square" alt="Reading" />
       </div>
       <h3>🎓 BSc (Hons) in Software Engineering</h3>
       <p><b>🏛️ Cardiff Metropolitan University</b></p>
       <p>
-        Currently pursuing the Bachelor of Science (Honours) degree in Software Engineering. Key study areas include advanced software engineering principles, enterprise system architecture, distributed computing, cloud deployment, and software quality engineering.
+        Actively pursuing a Bachelor of Science (Honours) degree in Software Engineering. Key areas of focus include:
       </p>
+      <ul>
+        <li>Advanced Enterprise Software Architecture & Design Patterns</li>
+        <li>Distributed Computing, Cloud Systems & Scalability</li>
+        <li>Software Quality Engineering, Testing & DevOps Pipelines</li>
+        <li>Modern Agile Project Management & System Analysis</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Discipline-Software%20Engineering-0ea5e9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Level-BSc%20(Hons)-1e40af?style=flat-square" />
-        <img src="https://img.shields.io/badge/Progress-In%20Progress-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Field-Software%20Engineering-0ea5e9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Award-BSc%20(Hons)-1e40af?style=flat-square" />
+        <img src="https://img.shields.io/badge/Status-In%20Progress-10B981?style=flat-square" />
       </p>
     </td>
+    <!-- Higher Diploma Card -->
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Diploma-Higher%20Diploma-8B5CF6?style=flat-square" alt="Diploma" />
-        <img src="https://img.shields.io/badge/Grade-🏆%20Merit%20Pass-10B981?style=flat-square" alt="Merit Pass" />
+        <img src="https://img.shields.io/badge/Diploma-Higher%20Diploma-8b5cf6?style=flat-square" alt="Higher Diploma" />
+        <img src="https://img.shields.io/badge/Result-🏆%20Merit%20Pass-10B981?style=flat-square" alt="Merit" />
       </div>
       <h3>📜 Higher Diploma in Computer Science & Software Engineering</h3>
       <p><b>🏛️ Cardiff Metropolitan University</b></p>
       <p>
-        Successfully completed with a distinguished <b>Merit Pass</b>. Comprehensive foundation spanning object-oriented software engineering, database management systems, data structures & algorithms, full-stack web applications, and agile engineering workflows.
+        Successfully completed with an honors-grade <b>Merit Pass</b>. Built strong foundational and applied software engineering knowledge:
       </p>
+      <ul>
+        <li>Object-Oriented Programming (Java, PHP, JavaScript)</li>
+        <li>Relational Database Design, SQL Query Optimization & Normalization</li>
+        <li>Data Structures, Algorithms & Computational Complexity</li>
+        <li>Full-Stack Web Application Development & RESTful APIs</li>
+      </ul>
       <p>
-        <img src="https://img.shields.io/badge/Achievement-Merit%20Pass%20🎖️-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Field-CS%20%26%20SE-6366f1?style=flat-square" />
+        <img src="https://img.shields.io/badge/Grade-Merit%20Pass%20🎖️-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-CS%20%26%20Software%20Eng-6366f1?style=flat-square" />
         <img src="https://img.shields.io/badge/Status-Completed%20✓-0284c7?style=flat-square" />
       </p>
     </td>
@@ -153,9 +179,9 @@
 
 ---
 
-<!-- ======================================================= -->
-<!-- GITHUB TROPHIES                                         -->
-<!-- ======================================================= -->
+<!-- ======================================================== -->
+<!-- GITHUB TROPHIES                                          -->
+<!-- ======================================================== -->
 <div align="center">
   <a href="https://github.com/YWanigaarachchi">
     <img src="https://github-profile-trophy.vercel.app/?username=YWanigaarachchi&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4&row=1&column=7" alt="GitHub Trophies" />
@@ -166,16 +192,16 @@
 
 ---
 
-<!-- ======================================================= -->
-<!-- TECH ARSENAL & SKILLS MATRIX                            -->
-<!-- ======================================================= -->
-## ⚡ Tech Arsenal & Skills
+<!-- ======================================================== -->
+<!-- TECHNICAL ECOSYSTEM & ARSENAL                            -->
+<!-- ======================================================== -->
+## ⚡ Technical Ecosystem & Skills Matrix
 
 <div align="center">
 
 <table width="100%">
   <tr>
-    <td width="22%" align="center"><b>💻 Languages</b></td>
+    <td width="24%" align="center"><b>💻 Core Languages</b></td>
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,html,css&perline=8&theme=dark" alt="Languages" />
@@ -183,7 +209,7 @@
     </td>
   </tr>
   <tr>
-    <td width="22%" align="center"><b>⚛️ Frontend & UI</b></td>
+    <td width="24%" align="center"><b>⚛️ Frontend & UI Frameworks</b></td>
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux,figma&perline=8&theme=dark" alt="Frontend" />
@@ -191,7 +217,7 @@
     </td>
   </tr>
   <tr>
-    <td width="22%" align="center"><b>🛠️ Backend & APIs</b></td>
+    <td width="24%" align="center"><b>🛠️ Backend, APIs & Mobile</b></td>
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,flutter&perline=8&theme=dark" alt="Backend" />
@@ -199,15 +225,15 @@
     </td>
   </tr>
   <tr>
-    <td width="22%" align="center"><b>☁️ Cloud & DevOps</b></td>
+    <td width="24%" align="center"><b>☁️ Cloud, DevOps & Infra</b></td>
     <td>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,githubactions,nginx&perline=8&theme=dark" alt="Cloud & DevOps" />
+        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,githubactions,nginx&perline=8&theme=dark" alt="DevOps" />
       </a>
     </td>
   </tr>
   <tr>
-    <td width="22%" align="center"><b>🗄️ Databases & Cache</b></td>
+    <td width="24%" align="center"><b>🗄️ Databases & Storage</b></td>
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,redis&perline=8&theme=dark" alt="Databases" />
@@ -215,7 +241,7 @@
     </td>
   </tr>
   <tr>
-    <td width="22%" align="center"><b>🧰 Tools & Platforms</b></td>
+    <td width="24%" align="center"><b>🧰 Developer Toolchain</b></td>
     <td>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm&perline=8&theme=dark" alt="Tools" />
@@ -230,13 +256,14 @@
 
 ---
 
-<!-- ======================================================= -->
-<!-- FEATURED PROJECTS SHOWCASE                              -->
-<!-- ======================================================= -->
-## 🚀 Featured Projects
+<!-- ======================================================== -->
+<!-- FEATURED PROJECT PORTFOLIO                               -->
+<!-- ======================================================== -->
+## 🚀 Featured Engineering Projects
 
 <table width="100%">
   <tr>
+    <!-- Siyala HMS -->
     <td width="50%" valign="top">
       <div align="left">
         <img src="https://img.shields.io/badge/Enterprise-Hospitality%20SaaS-0284c7?style=flat-square" alt="Category" />
@@ -244,7 +271,7 @@
       </div>
       <h3>🛎️ Siyala HMS</h3>
       <p>
-        Multi-chain Hotel Management System tailored for Sri Lankan hospitality with multi-location management (Kandy & Hikkaduwa), inventory tracking, vendor procurement, and tiered analytics.
+        Multi-chain Hotel Management SaaS engineered specifically for Sri Lankan hospitality enterprises. Supports multi-location property management (Kandy & Hikkaduwa), inventory synchronization, supplier procurement, and real-time revenue analytics.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
@@ -253,18 +280,19 @@
       </p>
       <p>
         <a href="https://github.com/YWanigaarachchi/Siyala_HMS1">
-          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Siyala HMS" />
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
+    <!-- Resortify HMS -->
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Decoupled-Beach%20Resort%20HMS-0284c7?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Decoupled-Resort%20HMS-0284c7?style=flat-square" alt="Category" />
         <img src="https://img.shields.io/badge/Status-🟢%20Active-10B981?style=flat-square" alt="Status" />
       </div>
       <h3>🏝️ Resortify HMS</h3>
       <p>
-        Modern decoupled Hotel Management System engineered for boutique resorts. Features real-time Kitchen Order Tickets (KOT), dual-currency (LKR/USD) sync, and automated VAT/SSCL tax compliance.
+        Modern decoupled Hotel Management System engineered for boutique resorts and luxury beachfront properties. Delivers instant Kitchen Order Tickets (KOT), automated dual-currency (LKR/USD) conversion, and automated VAT/SSCL compliance calculation.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" />
@@ -273,20 +301,21 @@
       </p>
       <p>
         <a href="https://github.com/YWanigaarachchi/Resortify-hms">
-          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Resortify HMS" />
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
+    <!-- LankaRest HMS -->
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Hospitality-Tourism%20Engine-0284c7?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Tourism-Hospitality%20Engine-0284c7?style=flat-square" alt="Category" />
         <img src="https://img.shields.io/badge/Status-🟢%20Active-10B981?style=flat-square" alt="Status" />
       </div>
       <h3>🇱🇰 LankaRest HMS</h3>
       <p>
-        Modular and high-efficiency Hotel Management platform built for Sri Lanka's tourism sector. Features multi-tier room management, dynamic seasonal pricing, and payment gateway readiness.
+        Modular and high-efficiency Hotel Management platform built for Sri Lanka's growing tourism ecosystem. Highlights multi-tier room allocation, dynamic seasonal tariff adjustments, guest history tracking, and payment gateway readiness.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
@@ -295,18 +324,19 @@
       </p>
       <p>
         <a href="https://github.com/YWanigaarachchi/lankarest-hms">
-          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View LankaRest HMS" />
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
+    <!-- Athithi HMS -->
     <td width="50%" valign="top">
       <div align="left">
-        <img src="https://img.shields.io/badge/Luxury-Boutique%20Villa%20HMS-0284c7?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Luxury-Villa%20HMS-0284c7?style=flat-square" alt="Category" />
         <img src="https://img.shields.io/badge/Status-🟢%20Active-10B981?style=flat-square" alt="Status" />
       </div>
       <h3>🏨 Athithi HMS</h3>
       <p>
-        Streamlined property and guest management system designed for luxury villas. Features room reservations, staff scheduling, inventory alerts, and rapid guest check-in workflows.
+        Comprehensive property and reservation engine designed for luxury private villas and boutique holiday homes. Automates guest check-ins, housekeeping schedules, inventory alerts, and rapid billing receipts.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
@@ -315,12 +345,34 @@
       </p>
       <p>
         <a href="https://github.com/YWanigaarachchi/athithi-hms">
-          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Athithi HMS" />
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
+    <!-- ContextSync AI -->
+    <td width="50%" valign="top">
+      <div align="left">
+        <img src="https://img.shields.io/badge/AI%20%2F%20ML-RAG%20System-0284c7?style=flat-square" alt="Category" />
+        <img src="https://img.shields.io/badge/Status-💡%20Intelligent-8B5CF6?style=flat-square" alt="Status" />
+      </div>
+      <h3>🤖 ContextSync AI</h3>
+      <p>
+        Intelligent Retrieval-Augmented Generation (RAG) platform bridging semantic vector embeddings with automated enterprise business workflows and LLM agent orchestration.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/-OpenAI%2FLLM-412991?logo=openai&logoColor=white&style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/YWanigaarachchi/ContextSync-AI">
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+      </p>
+    </td>
+    <!-- GreenLife Wellness -->
     <td width="50%" valign="top">
       <div align="left">
         <img src="https://img.shields.io/badge/HealthTech-Wellness%20Portal-0284c7?style=flat-square" alt="Category" />
@@ -328,7 +380,7 @@
       </div>
       <h3>🌿 GreenLife Wellness Center</h3>
       <p>
-        Holistic health management web app for yoga, clinical therapy, and personalized nutrition. Features online booking, client intake records, and specialized therapist dashboards.
+        Holistic digital health platform facilitating yoga sessions, therapeutic consultations, and customized nutrition tracking. Includes client intake records, doctor/therapist portals, and online appointment booking.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
@@ -338,27 +390,7 @@
       </p>
       <p>
         <a href="https://github.com/YWanigaarachchi/GreenLife_Wellness_Center">
-          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View GreenLife" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="left">
-        <img src="https://img.shields.io/badge/AI%20%2F%20ML-RAG%20System-0284c7?style=flat-square" alt="Category" />
-        <img src="https://img.shields.io/badge/Status-💡%20Intelligent-8B5CF6?style=flat-square" alt="Status" />
-      </div>
-      <h3>🤖 ContextSync AI</h3>
-      <p>
-        Intelligent Retrieval-Augmented Generation (RAG) platform bridging contextual vector search with automated downstream workflow execution and LLM agent orchestration.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/-OpenAI%2FLLM-412991?logo=openai&logoColor=white&style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/YWanigaarachchi/ContextSync-AI">
-          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View ContextSync AI" />
+          <img src="https://img.shields.io/badge/GitHub-Repository%20➔-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
@@ -369,9 +401,9 @@
 
 ---
 
-<!-- ======================================================= -->
-<!-- GITHUB METRICS & ANALYTICS                              -->
-<!-- ======================================================= -->
+<!-- ======================================================== -->
+<!-- GITHUB METRICS & ANALYTICS                               -->
+<!-- ======================================================== -->
 ## 📈 GitHub Metrics & Analytics
 
 <div align="center">
@@ -396,9 +428,9 @@
 
 ---
 
-<!-- ======================================================= -->
-<!-- CONTRIBUTION ACTIVITY SNAKE                             -->
-<!-- ======================================================= -->
+<!-- ======================================================== -->
+<!-- CONTRIBUTION SNAKE ACTIVITY                              -->
+<!-- ======================================================== -->
 ## 🐍 Contribution Activity
 
 <div align="center">
@@ -413,26 +445,26 @@
 
 ---
 
-<!-- ======================================================= -->
-<!-- LATEST BLOG POSTS & WRITINGS                            -->
-<!-- ======================================================= -->
+<!-- ======================================================== -->
+<!-- LATEST BLOG POSTS & WRITINGS                             -->
+<!-- ======================================================== -->
 ## 📝 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
-- 🚀 *New engineering blogs arriving soon — stay tuned for deep-dives on Microservices, AWS, and Full-Stack development!*
+- 🚀 *Engineering articles arriving soon — stay tuned for deep-dives on Microservices, AWS Cloud, and Full-Stack development!*
 <!-- BLOG-POST-LIST:END -->
 
 <p align="right">
-  <a href="https://dev.to/ywanigaarachchi"><b>Read more on Dev.to ➔</b></a>
+  <a href="https://dev.to/ywanigaarachchi"><b>Explore more on Dev.to ➔</b></a>
 </p>
 
 <br/>
 
 ---
 
-<!-- ======================================================= -->
-<!-- INSPIRATION & DEV PHILOSOPHY                            -->
-<!-- ======================================================= -->
+<!-- ======================================================== -->
+<!-- DEV INSPIRATION & QUOTE                                  -->
+<!-- ======================================================== -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
 </div>
@@ -441,35 +473,37 @@
 
 ---
 
-<!-- ======================================================= -->
-<!-- FOOTER & CONNECT                                        -->
-<!-- ======================================================= -->
+<!-- ======================================================== -->
+<!-- FOOTER & CONNECT                                         -->
+<!-- ======================================================== -->
 <div align="center">
 
   <h2>🤝 Let's Build Something Impactful Together!</h2>
   <p>
-    Whether you want to discuss a software project, explore collaboration, or chat about cloud architectures, my inbox is always open.
+    Whether you want to discuss a new software project, explore collaboration opportunities, or talk cloud architecture, my inbox is always open.
   </p>
 
-  <a href="https://github.com/YWanigaarachchi">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/yasas-wanigaarachchi">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:ywanigaarachchi@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
-  </a>
-  &nbsp;
-  <a href="https://ywanigaarachchi.github.io/Y_N_W/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio" />
-  </a>
+  <p>
+    <a href="https://github.com/YWanigaarachchi">
+      <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/yasas-wanigaarachchi">
+      <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:ywanigaarachchi@gmail.com">
+      <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email" />
+    </a>
+    &nbsp;
+    <a href="https://ywanigaarachchi.github.io/Y_N_W/">
+      <img src="https://img.shields.io/badge/View%20Portfolio-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="View Portfolio" />
+    </a>
+  </p>
 
-  <br/><br/>
+  <br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,25:1e40af,75:0f172a,100:0b0f19&height=130&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,30:1e3a8a,70:0f172a,100:090d16&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Banner" />
 
   <p><i>Crafted with precision & passion by <b>Yasas Nirmitha Wanigaarachchi</b> ⚡</i></p>
 
