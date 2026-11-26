@@ -91,8 +91,8 @@
     <text x="48" y="138" fill="url(#nameGrad)" font-size="38" font-weight="800" letter-spacing="0.5" class="sans">Yasas Nirmitha Wanigaarachchi</text>
 
     <!-- Role Subtitle -->
-    <text x="48" y="172" fill="#CBD5E1" font-size="17" font-weight="500" class="sans">
-      Full-Stack Software Engineer  <tspan fill="#7C3AED">•</tspan>  Cloud Architect  <tspan fill="#06B6D4">•</tspan>  SaaS &amp; AI Systems Builder
+    <text x="48" y="172" fill="#CBD5E1" font-size="16.5" font-weight="500" class="sans">
+      <tspan fill="#22D3EE" font-weight="700">Founder @ SoftgenixLK</tspan> <tspan fill="#64748B">(softgenix.lk)</tspan>  <tspan fill="#7C3AED">•</tspan>  Full-Stack Software Engineer  <tspan fill="#06B6D4">•</tspan>  Cloud Architect
     </text>
 
     <!-- Highlight Credential Cards inside Hero -->

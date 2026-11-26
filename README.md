@@ -7,6 +7,10 @@
 <br/>
 
 <div align="center">
+  <a href="https://softgenix.lk" target="_blank">
+    <img src="https://img.shields.io/badge/Founder-SoftgenixLK-0F1624?style=for-the-badge&logo=rocket&logoColor=FFFFFF&labelColor=7C3AED" alt="Founder @ SoftgenixLK" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/yasas-wanigaarachchi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0F1624?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
   </a>
@@ -42,7 +46,11 @@
 const yasas: SoftwareEngineer = {
   name: "Yasas Nirmitha Wanigaarachchi",
   location: "Sri Lanka 🇱🇰",
-  role: ["Full-Stack Software Engineer", "Cloud Solutions Architect"],
+  founder: {
+    company: "SoftgenixLK",
+    website: "https://softgenix.lk",
+  },
+  role: ["Founder @ SoftgenixLK", "Full-Stack Software Engineer", "Cloud Solutions Architect"],
   education: {
     reading: "BSc (Hons) in Software Engineering",
     completed: "Higher Diploma in Computer Science & Software Engineering (Merit Pass 🏆)",
